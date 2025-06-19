@@ -3,15 +3,15 @@ import plotly.graph_objects as go
 
 # Hardcoded Grok (xAI) Metrics
 grok_metrics = {
-    "company_name": "Ellipsis Health",
-    "valuation_clean": 100_000_000,
-    "total_funding_clean": 75_000_000,
-    "current_employees": 49,
-    "founded": 2017,
+    "company_name": "Liquid AI",
+    "valuation_clean": 2_100_000_000,
+    "total_funding_clean": 250_000_000,
+    "current_employees": 75,
+    "founded": 2023,
     "employee_growth": 10.0,
-    "funding_per_employee": 75_000_000 / 49,
-    "valuation_per_employee": 100_000_000 / 1200,
-    "capital_efficiency": 100_000_000 / 75_000_000,
+    "funding_per_employee": 250_000_000 / 75,
+    "valuation_per_employee": 2_100_000_000 / 1200,
+    "capital_efficiency": 2_100_000_000 / 250_000_000,
 }
 
 def style_fig(fig):
@@ -33,7 +33,7 @@ def valuation_bar_chart(df):
 
     fig.add_hline(y=grok_metrics["valuation_clean"],
                   line_dash="dot", line_color="crimson",
-                  annotation_text="Ellipsis Health",
+                  annotation_text="Liquid AI",
                   annotation_position="top left")
 
     return style_fig(fig)
@@ -52,8 +52,8 @@ def growth_scatter_plot(df):
         y=[grok_metrics["total_funding_clean"]],
         mode='markers+text',
         marker=dict(size=20, color='crimson', line=dict(width=1, color='black')),
-        name='Ellipsis Health',
-        text=['Ellipsis Health'],
+        name='Liquid AI',
+        text=['Liquid AI'],
         textposition='top right'
     ))
 
@@ -69,7 +69,7 @@ def funding_per_employee_chart(df):
 
     fig.add_hline(y=grok_metrics["funding_per_employee"],
                   line_dash="dot", line_color="crimson",
-                  annotation_text="Ellipsis Health",
+                  annotation_text="Liquid AI",
                   annotation_position="top left")
 
     return style_fig(fig)
@@ -84,7 +84,7 @@ def valuation_per_employee_chart(df):
 
     fig.add_hline(y=grok_metrics["valuation_per_employee"],
                   line_dash="dot", line_color="crimson",
-                  annotation_text="Ellipsis Health",
+                  annotation_text="Liquid AI",
                   annotation_position="top left")
 
     return style_fig(fig)
@@ -102,8 +102,8 @@ def headcount_vs_valuation_chart(df):
         y=[grok_metrics["valuation_clean"]],
         mode='markers+text',
         marker=dict(size=20, color='crimson', line=dict(width=1, color='black')),
-        name='Ellipsis Health',
-        text=['Ellipsis Health'],
+        name='Liquid AI',
+        text=['Liquid AI'],
         textposition='top right'
     ))
 
@@ -122,8 +122,8 @@ def funding_vs_founding_year(df):
         y=[grok_metrics["total_funding_clean"]],
         mode='markers+text',
         marker=dict(size=20, color='crimson', line=dict(width=1, color='black')),
-        name='Ellipsis Health',
-        text=['Ellipsis Health'],
+        name='Liquid AI',
+        text=['Liquid AI'],
         textposition='top right'
     ))
 

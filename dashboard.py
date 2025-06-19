@@ -14,7 +14,7 @@ from pathlib import Path
 
 # ---- PAGE CONFIG ----
 st.set_page_config(
-    page_title='Ellipsis Health vs Peers | Analytics',
+    page_title='Liquid AI vs Peers | Analytics',
     layout='wide',
     initial_sidebar_state='collapsed'
 )
@@ -60,8 +60,8 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # ---- TITLE & INTRO ----
-st.title("🧠 Ellipsis Health vs the AI World")
-st.markdown("A deep-dive into how **Ellipsis Health** compares to the top players in the AI startup ecosystem using publicly available data.")
+st.title("🧠 Liquid AI vs the AI World")
+st.markdown("A deep-dive into how **Liquid AI** compares to the top players in the AI startup ecosystem using publicly available data.")
 
 # ---- LOAD DATA ----
 df = load_data()
@@ -78,7 +78,7 @@ tabs = st.tabs([
 with tabs[0]:
     st.header("Growth vs Funding")
     st.plotly_chart(growth_scatter_plot(df), use_container_width=True)
-    st.markdown('<div class="caption-text">Each company’s funding is compared against its employee growth rate. Ellipsis Health appears as a high-growth, well-funded outlier.</div>', unsafe_allow_html=True)
+    st.markdown('<div class="caption-text">Each company’s funding is compared against its employee growth rate. Liquid AI appears as a high-growth, well-funded outlier.</div>', unsafe_allow_html=True)
 
 with tabs[1]:
     st.header("Capital Intensity")
