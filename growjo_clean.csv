@@ -1,0 +1,1001 @@
+company_name,city,country,state,current_employees,last_employees,employee_growth,founded,total_funding_clean,valuation_clean,Industry,Points,linkedin_url
+Anysphere,San Francisco,United States,CA,577,54,166.67,,176000000.0,2500000000.0,AI,3002,http://www.linkedin.com/company/anysphereinc
+ElevenLabs,New York,United States,NY,333,115,181.32,2022.0,353000000.0,3300000000.0,AI,2721,http://www.linkedin.com/company/elevenlabsio
+Mistral AI,Paris,FRA,,360,119,204.44,2023.0,1190000000.0,6000000000.0,AI,2545,http://www.linkedin.com/company/mistralai
+Figure,Sunnyvale,United States,CA,370,174,112.82,2022.0,845000000.0,2600000000.0,Robotics,2384,http://www.linkedin.com/company/figure-ai
+Abridge,Pittsburgh,United States,PA,326,120,171.67,2018.0,464000000.0,5300000000.0,AI,2366,http://www.linkedin.com/company/abridgehq
+Lightmatter,Boston,United States,MA,257,184,39.87,2017.0,422000000.0,4400000000.0,Hardware,2332,http://www.linkedin.com/company/lightmatter
+Shield AI,San Diego,United States,CA,147,114,28.51,2015.0,1310000000.0,5300000000.0,AI,2328,http://www.linkedin.com/company/shield-ai
+Mercor,San Francisco,United States,CA,555,107,421.79,2023.0,135000000.0,250000000.0,AI,2292,http://www.linkedin.com/company/mercor-ai
+Saronic Technologies,Austin,United States,TX,342,114,234.15,2022.0,845000000.0,4000000000.0,Defense,2231,http://www.linkedin.com/company/saronic-technologies
+Together AI,San Francisco,United States,CA,217,82,166.67,2022.0,537000000.0,3300000000.0,AI,2228,http://www.linkedin.com/company/togethercomputer
+SandboxAQ,Silicon valley,United States,CA,331,287,15.35,2021.0,950000000.0,5600000000.0,AI,2213,http://www.linkedin.com/company/sandboxaq
+Celestial AI,Santa Clara,United States,CA,146,113,29.13,2020.0,589000000.0,2500000000.0,AI,2205,http://www.linkedin.com/company/celestial-ai
+Sierra,San Francisco,United States,CA,253,49,420.0,,285000000.0,4500000000.0,AI,2201,http://www.linkedin.com/company/sierra
+Story,San Francisco,United States,CA,119,70,69.23,,193000000.0,2250000000.0,AI,2140,http://www.linkedin.com/company/story-foundation
+Chainguard,Kirkland,United States,WA,549,185,197.14,2021.0,612000000.0,3500000000.0,DevOps,2138,http://www.linkedin.com/company/chainguard-dev
+Peregrine,San Francisco,United States,CA,259,141,83.9,2018.0,253000000.0,2500000000.0,Analytics,2136,http://www.linkedin.com/company/peregrine-technologies
+KoBold Metals,Berkeley,United States,CA,290,227,28.07,2018.0,941000000.0,2960000000.0,Mining,2117,http://www.linkedin.com/company/koboldmetals
+Supabase,San Francisco,United States,Ca,135,90,50.62,2020.0,398000000.0,2000000000.0,SaaS,2112,http://www.linkedin.com/company/supabase
+Hippocratic AI,Palo Alto,United States,CA,159,85,87.14,2023.0,278000000.0,1600000000.0,AI,2103,http://www.linkedin.com/company/hippocratic-ai-health
+Synthesia,London,UK,,537,390,37.54,2017.0,334000000.0,2100000000.0,AI,2081,http://www.linkedin.com/company/synthesia-technologies
+poolside,Paris,FRA,,203,64,214.29,,626000000.0,3000000000.0,AI,2063,http://www.linkedin.com/company/poolsideai
+Harvey,San Francisco,United States,CA,601,192,213.21,2022.0,516000000.0,3000000000.0,AI,2038,http://www.linkedin.com/company/harvey-ai
+Cognition AI,New York,United States,NY,75,56,33.02,,342000000.0,4000000000.0,AI,2029,http://www.linkedin.com/company/cognition-ai-labs
+Decagon,San Francisco,United States,CA,106,21,407.69,,200000000.0,1500000000.0,AI,2026,http://www.linkedin.com/company/decagon-ai
+Runway ML,New York,United States,NY,343,209,64.09,2018.0,544000000.0,3000000000.0,AI,2008,http://www.linkedin.com/company/runwayml
+Halcyon,Austin,United States,TX,292,180,61.94,2021.0,364000000.0,1000000000.0,IT Security,1987,http://www.linkedin.com/company/halcyonai
+Helion Energy,Everett,United States,WA,357,252,41.87,,1030000000.0,5240000000.0,Environmental,1977,http://www.linkedin.com/company/helion-energy
+Vultr,West Palm Beach,United States,FL,235,155,51.8,,333000000.0,3500000000.0,SaaS,1972,http://www.linkedin.com/company/vultr
+Second Front Systems,Wilmington,United States,DE,155,123,25.41,2014.0,150000000.0,750000000.0,SaaS,1953,http://www.linkedin.com/company/secondfront
+RadAI,Berkeley,United States,CA,193,140,37.82,2018.0,60000000.0,525000000.0,AI,1867,http://www.linkedin.com/company/radai
+Luma AI,San Francisco,United States,CA,166,55,202.08,2021.0,114000000.0,300000000.0,SaaS,1857,http://www.linkedin.com/company/luma-ai
+Groq,Mountain View,United States,CA,470,292,60.89,2016.0,2550000000.0,2800000000.0,Semiconductors,1846,http://www.linkedin.com/company/groq
+Neko Health,Stockholm,SWE,,258,121,112.82,2018.0,331000000.0,1700000000.0,Hospital/Healthcare,1840,http://www.linkedin.com/company/nekohealth
+QuEra Computing,Boston,United States,MA,100,71,41.94,2018.0,277000000.0,1000000000.0,Research,1838,http://www.linkedin.com/company/quera-computing-inc
+Lambda,San Francisco,United States,CA,569,409,39.0,2012.0,1370000000.0,2500000000.0,Hardware,1831,http://www.linkedin.com/company/lambda-labs
+Cyberhaven,Palo Alto,United States,CA,228,135,68.97,2016.0,236000000.0,500000000.0,IT Security,1818,http://www.linkedin.com/company/cyberhaven
+Island,Dallas,United States,TX,778,519,49.89,2020.0,800000000.0,4800000000.0,SaaS,1816,http://www.linkedin.com/company/island-io
+N8n,Berlin,DEU,,167,91,85.45,2019.0,73500000.0,270000000.0,AI,1810,http://www.linkedin.com/company/n8n
+BaseTen,San Francisco,United States,CA,106,50,114.71,,135000000.0,825000000.0,DevOps,1810,http://www.linkedin.com/company/baseten
+Bilt Rewards,New York,United States,NY,300,229,31.61,2021.0,563000000.0,3100000000.0,Fintech,1805,http://www.linkedin.com/company/biltrewards
+Hebbia AI,New York,United States,NY,136,66,105.17,2020.0,159000000.0,700000000.0,SaaS,1801,http://www.linkedin.com/company/hebbia
+ZUM,Redwood City,United States,CA,528,393,34.26,,350000000.0,1300000000.0,Transportation,1789,http://www.linkedin.com/company/ridezum
+Riot,San Francisco,United States,CA,129,78,65.71,2020.0,41900000.0,170000000.0,IT Security,1783,http://www.linkedin.com/company/tryriot
+Ayar Labs,San Jose,United States,CA,203,180,13.04,2015.0,374000000.0,1000000000.0,Hardware,1780,http://www.linkedin.com/company/ayar-labs
+Upwind,Tel Aviv,ISR,,228,124,83.02,2022.0,177000000.0,900000000.0,IT Security,1779,http://www.linkedin.com/company/upwindsecurity
+Crusoe,Denver,United States,CO,668,386,73.07,2018.0,1820000000.0,2800000000.0,AI,1770,http://www.linkedin.com/company/crusoe
+Cynomi,Herzliya,ISR,,85,46,82.93,2020.0,60000000.0,140000000.0,IT Security,1760,http://www.linkedin.com/company/cynomi
+Windsurf,Mountain View,United States,CA,258,54,380.49,,243000000.0,1250000000.0,AI,1751,http://www.linkedin.com/company/windsurf
+Just Salad,New York,United States,NY,626,522,19.67,,436000000.0,1000000000.0,Restaurants,1741,http://www.linkedin.com/company/just-salad
+Tines,Dublin,IRL,,432,321,34.51,2018.0,272000000.0,1130000000.0,IT Security,1738,http://www.linkedin.com/company/tines-io
+Cyera,New York,United States,NY,693,289,140.17,2021.0,600000000.0,3000000000.0,IT Security,1730,http://www.linkedin.com/company/cyera
+Hightouch,San Francisco,United States,CA,381,244,55.98,,172000000.0,1200000000.0,AI,1725,http://www.linkedin.com/company/hightouchio
+Nerdio,Chicago,United States,IL,336,206,63.74,2016.0,627000000.0,1200000000.0,SaaS,1696,http://www.linkedin.com/company/getnerdio
+EliseAI,New York,United States,NY,285,165,72.85,2017.0,172000000.0,1000000000.0,AI,1685,http://www.linkedin.com/company/eliseai
+Farther Finance,New York,United States,NY,451,276,63.82,2019.0,124000000.0,542000000.0,Finance,1682,http://www.linkedin.com/company/fartherfinance
+Nimble,San Francisco,United States,CA,253,204,24.1,2017.0,221000000.0,1000000000.0,Logistics,1677,http://www.linkedin.com/company/nimble-robotics
+Enfinity Global,Madrid,ESP,,223,164,35.84,2006.0,867000000.0,,Environmental,1673,http://www.linkedin.com/company/enfinity
+Quantinuum,Broomfield,United States,CO,664,563,17.84,2021.0,325000000.0,5000000000.0,Fintech,1670,http://www.linkedin.com/company/quantinuumqc
+Bending Spoons,Milan,ITA,,587,471,24.38,2013.0,747000000.0,2600000000.0,SaaS,1669,http://www.linkedin.com/company/bendingspoons
+11x,San Francisco,United States,CA,244,39,1056.67,2023.0,76100000.0,350000000.0,AI,1639,http://www.linkedin.com/company/11x-ai
+Antithesis,Vienna,United States,VA,106,73,46.3,,47000000.0,215000000.0,DevOps,1631,http://www.linkedin.com/company/antithesis-operations
+OLIPOP PBC,Oakland,United States,CA,440,267,64.61,2017.0,243000000.0,1850000000.0,Food,1628,http://www.linkedin.com/company/olipop-pbc
+Truveta,Seattle,United States,WA,387,359,7.89,2020.0,515000000.0,1000000000.0,Digital Health,1621,http://www.linkedin.com/company/truveta
+Dream,Tel-Aviv,ISR,,198,121,63.89,2022.0,154000000.0,1100000000.0,IT Security,1596,http://www.linkedin.com/company/dreamsecurity
+SchoolAI,Lehi,United States,UT,268,23,620.83,2023.0,32000000.0,,AI,1595,http://www.linkedin.com/company/getschoolai
+Speak,San Francisco,United States,CA,240,163,46.9,,161000000.0,1000000000.0,AI,1590,http://www.linkedin.com/company/usespeak
+Nirvana,San Francisco,United States,CA,105,75,38.71,2020.0,162000000.0,830000000.0,Insurance,1582,http://www.linkedin.com/company/nirvana-tech
+Hugging Face,New York,United States,NY,571,369,54.68,2016.0,395000000.0,4500000000.0,AI,1581,http://www.linkedin.com/company/huggingface
+Pika,Palo Alto,United States,CA,204,80,158.06,2023.0,141000000.0,470000000.0,AI,1561,http://www.linkedin.com/company/pika-labs
+BuildOps,Santa Monica,United States,CA,522,360,45.0,2018.0,273000000.0,1000000000.0,DevOps,1551,http://www.linkedin.com/company/buildops
+Tailscale,Toronto,CAN,ON,196,159,23.36,2019.0,277000000.0,1500000000.0,IT Security,1537,http://www.linkedin.com/company/tailscale
+Crescendo,San Francisco,United States,CA,73,26,175.0,,50000000.0,500000000.0,AI,1535,http://www.linkedin.com/company/crescendocx
+Temporal Technologies,Bellevue,United States,WA,331,265,25.12,2019.0,349000000.0,1720000000.0,DevOps,1528,http://www.linkedin.com/company/temporal-technologies
+Hostaway,Miami,United States,FL,274,195,40.7,2015.0,178000000.0,925000000.0,SaaS,1521,http://www.linkedin.com/company/hostaway
+HeyGen,Los Angeles,United States,CA,218,80,170.59,2020.0,65599999.99999999,500000000.0,AI,1506,http://www.linkedin.com/company/heygen
+Cortex,San Francisco,United States,CA,138,96,44.33,2019.0,113000000.0,470000000.0,SaaS,1505,http://www.linkedin.com/company/cortexapp
+HashKey Group,Hong Kong,HONG KONG,,261,197,32.47,2018.0,130000000.0,1200000000.0,Fintech,1490,http://www.linkedin.com/company/hashkey-digital-asset-group
+Novatus Global,London,UK,,109,51,113.16,2019.0,,150000000.0,Fintech,1482,http://www.linkedin.com/company/novatus-global
+Kiteworks,San Mateo,United States,CA,312,266,17.48,1999.0,610000000.0,1000000000.0,IT Security,1478,http://www.linkedin.com/company/kiteworkscgcp
+Tenstorrent,Toronto,CAN,ON,835,534,56.12,2016.0,1030000000.0,2600000000.0,Hardware,1469,http://www.linkedin.com/company/tenstorrent-inc.
+Apptronik Systems,Austin,United States,TX,247,133,86.54,2015.0,441000000.0,,Engineering,1465,http://www.linkedin.com/company/apptronik-inc.
+Altana Trade,New York,United States,NY,268,190,40.85,,344000000.0,1000000000.0,AI,1463,http://www.linkedin.com/company/altana-ai
+Marshmallow,London,UK,,796,624,27.56,2017.0,221000000.0,2000000000.0,Fintech,1455,http://www.linkedin.com/company/marshmallowltd
+Flip,Los Angeles,United States,CA,309,271,13.93,2019.0,306000000.0,1050000000.0,SaaS,1435,http://www.linkedin.com/company/joinflip
+Krutrim,Bangalore,IND,,559,286,95.32,,74000000.0,1000000000.0,AI,1434,http://www.linkedin.com/company/krutrim
+Cosm,Los Angeles,United States,CA,705,428,64.5,2020.0,251000000.0,1000000000.0,Entertainment,1432,http://www.linkedin.com/company/experiencecosm
+EvenUp,San Francisco,United States,CA,556,422,31.68,2019.0,235000000.0,1000000000.0,LegalTech,1426,http://www.linkedin.com/company/evenup
+Aescape,New York,United States,NY,167,146,14.6,2017.0,131000000.0,250000000.0,Health,1422,http://www.linkedin.com/company/aescape
+Huntress Labs,Columbia,United States,MD,694,513,35.31,2015.0,298000000.0,1550000000.0,IT Security,1419,http://www.linkedin.com/company/huntress-labs
+Meter,San Francisco,United States,CA,122,88,38.75,2015.0,84100000.0,350000000.0,Networking,1415,http://www.linkedin.com/company/meter-com
+Lovable,Stockholm,United States,,145,16,761.9,,22500000.0,,SaaS,1410,http://www.linkedin.com/company/lovable-dev
+Clay,Brooklyn,United States,NY,760,287,164.11,,102000000.0,500000000.0,SaaS,1401,http://www.linkedin.com/company/clay-hq
+9fin,London,UK,,436,267,63.68,2016.0,88600000.0,500000000.0,Fintech,1384,http://www.linkedin.com/company/9fin
+XREAL,Beijing,CHN,,161,157,2.8,2017.0,300000000.0,1000000000.0,Gaming,1384,http://www.linkedin.com/company/xreal-com
+Semperis,Hoboken,United States,NJ,555,449,23.73,2013.0,382000000.0,1000000000.0,IT Security,1380,http://www.linkedin.com/company/semperis
+Aven,San Francisco,United States,CA,151,119,27.06,2019.0,142000000.0,1000000000.0,Finance,1378,http://www.linkedin.com/company/avencard
+PhotoRoom,Paris,FRA,,568,348,63.25,2019.0,75300000.0,500000000.0,AI,1376,http://www.linkedin.com/company/photoroom
+Inszone Insurance Services,Rancho Cordova,United States,CA,575,433,32.92,2002.0,141000000.0,,Insurance,1373,http://www.linkedin.com/company/inszone-insurance-services-inc-
+Arevon Energy,Scottsdale,United States,AZ,344,280,22.71,2017.0,386000000.0,,Energy,1370,http://www.linkedin.com/company/arevon
+Mechanical Orchard,San Francisco,United States,CA,122,91,35.0,2022.0,86200000.0,95000000.0,AI,1368,http://www.linkedin.com/company/mechanical-orchard
+Rain,Santa Monica,United States,CA,337,317,6.07,2019.0,,,Finance,1367,http://www.linkedin.com/company/rain-app
+Dtex Systems,Saratoga,United States,CA,193,146,32.12,2002.0,127000000.0,400000000.0,IT Security,1365,http://www.linkedin.com/company/dtex-systems
+PolyAI,London,UK,,268,179,50.66,2017.0,149000000.0,500000000.0,AI,1336,http://www.linkedin.com/company/polyai
+finmid,Berlin,DEU,,84,61,38.18,2021.0,52100000.0,107000000.0,Fintech,1334,http://www.linkedin.com/company/finmid
+Weka.IO,Campbell,United States,CA,520,411,26.35,2014.0,275000000.0,1600000000.0,AI,1329,http://www.linkedin.com/company/weka-io
+The Browser Company,New York,United States,NY,143,81,76.62,2019.0,125000000.0,500000000.0,SaaS,1326,http://www.linkedin.com/company/the-browser-company
+Liquid Death Mountain Water,Santa Monica,United States,CA,454,440,3.09,2017.0,341000000.0,1400000000.0,Food,1325,http://www.linkedin.com/company/liquid-death
+Watershed,San Francisco,United States,CA,580,432,34.12,2019.0,210000000.0,1800000000.0,SaaS,1321,http://www.linkedin.com/company/watershedclimate
+CData Software,Chapel Hill,United States,NC,467,415,12.53,,235000000.0,800000000.0,SaaS,1318,http://www.linkedin.com/company/cdatasoftware
+Atlan,New York,United States,NY,491,349,40.53,2019.0,179000000.0,750000000.0,SaaS,1318,http://www.linkedin.com/company/atlan-hq
+Rebellions,Seoul,SOUTH KOREA,,163,98,66.29,2020.0,225000000.0,658000000.0,AI,1311,http://www.linkedin.com/company/rebellions-ai
+Hailo,Tel Aviv,ISR,,303,281,7.91,2017.0,341000000.0,1200000000.0,Semiconductors,1310,http://www.linkedin.com/company/hailo-ai
+Suki,Redwood City,United States,CA,347,241,43.9,2017.0,165000000.0,500000000.0,Digital Health,1301,http://www.linkedin.com/company/sukihq
+Silverfort,Tel Aviv,ISR,,511,366,39.88,2016.0,223000000.0,1000000000.0,IT Security,1292,http://www.linkedin.com/company/silverfort
+Omni,San Francisco,United States,CA,551,370,48.94,2022.0,116.0,650000000.0,SaaS,1286,http://www.linkedin.com/company/exploreomni
+NomuPay,Dublin,IRL,,236,215,9.44,2021.0,139000000.0,200000000.0,Finance,1281,http://www.linkedin.com/company/nomupay
+Artisan AI,San Francisco,United States,CA,368,60,509.76,,39300000.0,,Internet,1279,http://www.linkedin.com/company/artisanai
+DataSnipper,Amsterdam,NLD,,247,189,30.68,2017.0,100000000.0,1000000000.0,SaaS,1270,http://www.linkedin.com/company/datasnipper
+Pigment,Paris,FRA,,577,408,41.24,2019.0,400000000.0,1000000000.0,Tech Services,1258,http://www.linkedin.com/company/pigment
+Polyhedra Network,San Francisco,United States,CA,23,17,41.18,,45000000.0,1250000000.0,SaaS,1255,http://www.linkedin.com/company/polyhedrazk
+Moove,Lagos,NIGERIA,,741,731,1.44,2019.0,409000000.0,750000000.0,Fintech,1250,http://www.linkedin.com/company/moove-io
+Orby AI,Mountain View,United States,CA,50,20,152.63,2022.0,34500000.0,100000000.0,SaaS,1240,http://www.linkedin.com/company/orby-ai
+ONE ZERO BANK,Tel Aviv,ISR,,367,40,833.33,2019.0,342000000.0,,Finance,1227,http://www.linkedin.com/company/one-zero-digital-private-bank
+Mynt,Stockholm,SWE,,54,40,35.29,2019.0,56300000.0,210000000.0,Fintech,1208,http://www.linkedin.com/company/myntab
+EGYM | DACH,Munich,DEU,,378,375,0.71,2010.0,627000000.0,1200000000.0,Fitness,1204,http://www.linkedin.com/company/egym-gmbh
+Cohere,Toronto,CAN,ON,851,709,20.03,2019.0,940000000.0,2100000000.0,AI,1196,http://www.linkedin.com/company/cohere-ai
+Reputation.com,San Francisco,United States,CA,736,292,150.0,2024.0,40000000.0,200000000.0,AI,1194,http://www.linkedin.com/company/reputation-com
+Oura,Oulu,FIN,,964,717,34.45,2013.0,148300000.0,5000000000.0,Digital Health,1193,http://www.linkedin.com/company/oura
+TS Conductor,Arcadia,United States,CA,118,65,81.82,,85100000.0,,Utilities,1189,http://www.linkedin.com/company/ts-conductor
+krea.ai,San Francisco,United States,CA,45,20,125.0,,83000000.0,500000000.0,AI,1182,http://www.linkedin.com/company/krea-ai
+Netradyne,San Diego,United States,CA,986,947,4.23,2015.0,362000000.0,1200000000.0,Analytics,1179,http://www.linkedin.com/company/netradyne
+Snorkel AI,Redwood City,United States,CA,741,168,341.07,2019.0,138000000.0,1300000000.0,AI,1170,http://www.linkedin.com/company/snorkel-ai
+Firefly Space Systems,Cedar Park,United States,TX,973,772,26.04,,659000000.0,2000000000.0,Aviation,1162,http://www.linkedin.com/company/fireflyspace
+Zip,San Francisco,United States,CA,993,691,43.76,2020.0,371000000.0,2200000000.0,Fintech,1153,http://www.linkedin.com/company/theziphq
+Flo Health,London,UK,,724,635,13.97,2016.0,299000000.0,1000000000.0,Tech Services,1152,http://www.linkedin.com/company/flohealth
+The Row,New York,United States,NY,528,424,24.66,2007.0,1300000.0,1000000000.0,Apparel,1147,http://www.linkedin.com/company/the-row-llc-dualstar-entertainment-group
+Lyten,San Jose,United States,CA,352,308,14.34,2015.0,1130000000.0,1400000000.0,Environmental,1145,http://www.linkedin.com/company/lyten-inc
+Supernova Energy Corporation,Newport Beach,United States,CA,491,51,870.0,2018.0,,,Energy,1142,http://www.linkedin.com/company/supernovaenergy
+Phantom Technologies LTD,Petah-Tikva,ISR,,24,19,25.0,1966.0,268000000.0,3000000000.0,Fintech,1137,http://www.linkedin.com/company/phantom-technologies-ltd
+Braintrust,San Francisco,United States,CA,454,363,25.28,2018.0,47900000.0,150000000.0,Fintech,1130,http://www.linkedin.com/company/usebraintrust
+Rio All-Suite Hotel and Casino Las Vegas,Las Vegas,United States,NV,389,333,17.09,1990.0,1700000000.0,,Casinos,1129,http://www.linkedin.com/company/riolasvegas
+Hume AI,New York,United States,NY,59,43,37.5,2021.0,66900000.00000001,219000000.0,Research,1118,http://www.linkedin.com/company/hume-ai
+SpecterOps,McLean,United States,VA,227,146,56.2,2017.0,133000000.0,,IT Security,1106,http://www.linkedin.com/company/specterops
+Lendbuzz,Boston,United States,MA,456,377,21.01,2015.0,1660000000.0,1100000000.0,Fintech,1106,http://www.linkedin.com/company/lendbuzz
+BigID,New York,United States,NY,768,629,22.15,2016.0,258000000.0,1000000000.0,IT Security,1097,http://www.linkedin.com/company/bigid
+Stonepeak,New York,United States,NY,340,280,21.18,2011.0,185000000.0,,Investments,1077,http://www.linkedin.com/company/stonepeakpartners
+Mainspring Energy,Menlo Park,United States,CA,584,472,23.7,,804000000.0,,Environmental,1074,http://www.linkedin.com/company/mainspringenergy
+Guesty,Hillsborough,United States,CA,783,683,14.77,2013.0,409000000.0,900000000.0,Real Estate Tech,1072,http://www.linkedin.com/company/guesty
+Net Zero Power Infrastructure,London,UK,,87,62,39.58,2015.0,,,Fintech,1058,http://www.linkedin.com/company/quinbrook-infrastructure-partners
+DevRev,Palo Alto,United States,CA,804,536,50.15,2020.0,186000000.0,1150000000.0,DevOps,1043,http://www.linkedin.com/company/devrev
+EVgo,Los Angeles,United States,CA,460,407,12.82,2010.0,,590449000.0,Automotive,1040,http://www.linkedin.com/company/evgo
+K2 Space Corporation,Los Angeles,United States,CA,129,52,148.78,2022.0,176000000.0,,Defense,1038,http://www.linkedin.com/company/k2-space
+Castelion,El Segundo,United States,CA,136,55,145.45,2022.0,114000000.0,,Defense,1036,http://www.linkedin.com/company/castelion
+Pennylane,Paris,FRA,,741,551,34.51,2020.0,155000000.0,1077815000.0,Accounting,1031,http://www.linkedin.com/company/pennylaneaccounting
+Zekelman Industries,Chicago,United States,IL,888,823,7.86,,2180000000.0,,Materials,1030,http://www.linkedin.com/company/zekelman-industries
+REGENT Craft,Burlington,United States,MA,293,219,33.54,,145000000.0,,Maritime,1017,http://www.linkedin.com/company/regentcraft
+Base Power Company,Austin,United States,TX,160,40,296.15,2023.0,276000000.0,,Energy,1009,http://www.linkedin.com/company/basepowercompany
+SureX Life,Mogale City,ZAF,,157,20,673.33,,,,Insurance,1008,http://www.linkedin.com/company/surex-life
+Greenbrook TMS NeuroHealth Centers,McLean,United States,VA,415,410,1.16,2010.0,86200000.0,,Healthcare,1006,http://www.linkedin.com/company/tms-neurohealth-centers
+Kong,San Francisco,United States,CA,974,716,36.11,2017.0,364000000.0,2000000000.0,DevOps,1002,http://www.linkedin.com/company/konghq
+Hoppy Brewing Company,Sacramento,United States,CA,193,25,674.07,,,,Marketing,990,http://www.linkedin.com/company/hoppy-app-ltd
+Highbrow Technology,Cary,United States,NC,193,25,669.23,2011.0,,,Tech Services,990,http://www.linkedin.com/company/highbrow-technology-inc
+Gensol Electric Vehicles,Pune,INDIA,,435,216,100.63,2022.0,,,Automotive,988,http://www.linkedin.com/company/gensol-engineering-ltd
+esVolta,Aliso Viejo,United States,CA,125,99,25.68,2017.0,185000000.0,,Utilities,985,http://www.linkedin.com/company/esvolta-lp
+Hydrostor,Toronto,CAN,ON,160,115,38.55,2010.0,,,Energy/Oil,983,http://www.linkedin.com/company/hydrostor-inc-
+Intersect Power,Beaverton,United States,OR,344,278,23.79,2016.0,3270000000.0,,Environmental,983,http://www.linkedin.com/company/intersect-power
+Cadbury Schweppes Bottling Group,Plano,United States,TX,209,127,64.21,2006.0,,,Food,980,http://www.linkedin.com/company/cadbury-schweppes-bottling-group
+FTAI Aviation,New York,United States,NY,290,99,192.19,2014.0,,,Aviation,980,http://www.linkedin.com/company/ftai-aviation-llc
+Second City Works,Chicago,United States,IL,757,80,840.79,1986.0,,,Training,964,http://www.linkedin.com/company/second-city-works
+UnifyApps,Haryana,INDIA,,209,39,435.14,,33400000.0,,SaaS,961,http://www.linkedin.com/company/unifyapps
+Tennr,New York,United States,NY,144,43,237.5,2021.0,58000000.0,,Hospital/Healthcare,957,http://www.linkedin.com/company/tennrai
+Iteris,Santa Ana,United States,CA,653,646,0.96,2004.0,6500000.0,,SaaS,953,http://www.linkedin.com/company/iteris-inc-
+DataBank,Dallas,United States,TX,858,786,9.12,2005.0,5580000000.0,,Tech Services,947,http://www.linkedin.com/company/databank
+Abroad Jobs,MUMBAI,IND,,133,18,637.5,,,,HR,942,http://www.linkedin.com/company/abroadvacancies
+Hotel Engine,Denver,United States,CO,637,603,5.54,2013.0,81000000.0,2100000000.0,Hospitality,942,http://www.linkedin.com/company/hotel-engine
+STACK INFRASTRUCTURE,Denver,United States,CO,928,689,34.76,2019.0,10100000000.0,,Tech Services,941,http://www.linkedin.com/company/stackinfrastructure
+Interactive Data,Charleston,United States,WV,356,46,679.55,,,,Tech Services,935,http://www.linkedin.com/company/interactive-data-inc.
+WORK Personnel Services,San Francisco,United States,CA,101,96,5.49,2015.0,,,HR,935,http://www.linkedin.com/company/atworksf
+Electra.aero,Falls Church,United States,VA,96,60,60.0,2020.0,235000000.0,,Aviation,925,http://www.linkedin.com/company/electra-aero
+Riverlane,Cambridge,UK,,960,885,8.13,2017.0,127000000.0,400000000.0,AI,919,http://www.linkedin.com/company/river-lane-research-ltd
+Astra Security,Paris,FRA,,102,76,34.29,2013.0,2850000.0,,IT Security,915,http://www.linkedin.com/company/getastra
+Opus Talent Solutions,Bristol,UK,,639,75,747.3,2008.0,,,Recruiting,912,http://www.linkedin.com/company/opus-professional-services-group
+Women Automotive Network,London,UK,,165,23,615.79,,,,Nonprofit,911,http://www.linkedin.com/company/women-automotive-network
+Valley Home Care,Scranton,United States,PA,129,18,630.77,,,,Hospital/Healthcare,910,http://www.linkedin.com/company/valleyhhc
+ACME Solar,Haryana,INDIA,,170,34,400.0,,,,Energy,906,http://www.linkedin.com/company/acme-solar-in
+Capstone,New York,United States,NY,468,426,9.94,,,,Finance,906,http://www.linkedin.com/company/capstone-investment-advisors
+Yum! Kitchen and Bakery,Minneapolis,United States,MN,295,40,636.67,,,,Food,903,http://www.linkedin.com/company/yum-kitchen-and-bakery
+English Language and Literature,Provo,United States,UT,413,53,677.78,2018.0,,,E-Learning Providers,903,http://www.linkedin.com/company/english-language-and-literature
+Tacom Limited,Columbus,United States,OH,121,17,628.57,2009.0,,,Consumer,903,http://www.linkedin.com/company/tacom-limited
+Plata Card,Mexico City,MEX,,934,746,25.25,2022.0,415000000.0,1500000000.0,Finance,897,http://www.linkedin.com/company/platacard
+Signia by Hilton Atlanta,Atlanta,United States,GA,191,27,606.25,2024.0,,,Hospitality,896,http://www.linkedin.com/company/signiabyhiltonatlanta
+Ocean Sports Hawaii,Honolulu,United States,HI,342,46,643.24,,,,Hospitality,893,http://www.linkedin.com/company/ocean-sports-hawaii
+VinFast US,Playa Vista,United States,CA,243,218,10.84,,,,Automotive,887,http://www.linkedin.com/company/vinfast-us
+Business Intelligence Group (UIUC),Champaign,United States,IL,283,39,638.71,2015.0,,,Education,887,http://www.linkedin.com/company/business-intelligence-group-at-uiuc
+Airia - Enterprise AI Simplified,Miami,United States,FL,133,19,588.24,2023.0,,,SaaS,886,http://www.linkedin.com/company/airia-enterprise-ai-simplified
+MoonPay,Miami,United States,FL,466,385,21.03,2018.0,757000000.0,3400000000.0,Fintech,883,http://www.linkedin.com/company/moonpay
+axio finance,Bangalore,IND,,544,478,13.81,2013.0,,,Finance,881,http://www.linkedin.com/company/axio-finance
+Zoom Drain,Philadelphia,United States,PA,200,180,11.33,1995.0,,,Consumer,881,http://www.linkedin.com/company/zoomdrain
+Dor Technologies,San Francisco,United States,CA,146,21,606.25,2015.0,15000000.0,,Retail,879,http://www.linkedin.com/company/dor-technologies
+Realty of America,Berwyn,United States,IL,438,58,653.66,2024.0,,,Real Estate,872,http://www.linkedin.com/company/realtyofamerica-official
+MagicSchool AI,Denver,United States,CO,188,52,266.67,2023.0,62900000.0,,Education,872,http://www.linkedin.com/company/magicschool-ai
+Waste Resource Management,Houston,United States,TX,131,19,588.24,,,,Facilities,871,http://www.linkedin.com/company/waste-resource-management-inc
+Nomagic,Warsaw,POL,,137,133,2.52,2017.0,85100000.0,,AI,870,http://www.linkedin.com/company/nomagic
+Tyme,Singapore,SINGAPORE,,137,133,3.7,2019.0,,,Finance,870,http://www.linkedin.com/company/tymeglobal
+Placer.ai,Santa Cruz,United States,CA,878,871,0.83,2013.0,241000000.0,1450000000.0,Analytics,869,http://www.linkedin.com/company/placer
+Creatio,Boston,United States,MA,983,846,16.23,2014.0,,1200000000.0,Tech Services,866,http://www.linkedin.com/company/creatioglobal
+MoneyHash,San Francisco,United States,CA,47,36,32.26,2020.0,13000000.0,,Finance,865,http://www.linkedin.com/company/moneyhash
+Clarion Partners,New York,United States,NY,481,476,1.08,,,,Fintech,857,http://www.linkedin.com/company/clarion-partners-llc
+Learning Labb Research Institute,Bangalore,INDIA,,232,33,593.33,2023.0,,,Education,856,http://www.linkedin.com/company/learning-labb-research-institute
+LanzaJet,Chicago,United States,IL,168,125,34.29,2020.0,116000000.0,,Environmental,853,http://www.linkedin.com/company/lanzajet
+Kicklo,Claymont,United States,DE,334,47,611.36,,,,Retail,849,http://www.linkedin.com/company/kicklo
+DRMC,Lake Forest,United States,IL,286,41,602.5,2009.0,,,Marketing,848,http://www.linkedin.com/company/drmc-llc
+Semgrep,San Francisco,United States,CA,187,161,16.22,2017.0,,,SaaS,847,http://www.linkedin.com/company/semgrep
+INTECH Investment Management,West Palm Beach,United States,FL,83,80,4.11,1987.0,,,Investments,847,http://www.linkedin.com/company/intech-investment-management-llc
+Catalyze,Boulder,United States,CO,185,160,15.79,2017.0,390000000.0,,Energy,847,http://www.linkedin.com/company/catalyzeinc
+Samsung SDI America,Auburn Hills,United States,MI,241,193,25.0,2015.0,,,Electronics,846,http://www.linkedin.com/company/samsung-sdi-america-inc-
+Contemporary Amperex Technology Thuringia GmbH,Arnstadt,DEU,,216,174,24.26,2018.0,,,Energy,845,http://www.linkedin.com/company/contemporary-amperex-technology-thuringia-ag
+Swift Current Energy,Boston,United States,MA,121,107,11.96,2016.0,312000000.0,,Environmental,843,http://www.linkedin.com/company/swiftcurrentenergy
+CMB.TECH,Antwerp,BEL,,859,91,848.65,,,,Environmental,841,http://www.linkedin.com/company/cmbtech
+PDT Partners,New York,United States,NY,255,239,6.57,,,,Investments,841,http://www.linkedin.com/company/pdt-partners-llc
+IT Vortex,Paramus,United States,NJ,147,22,600.0,2014.0,,,Tech Services,840,http://www.linkedin.com/company/it-vortex-llc
+XP Health,Redwood City,United States,CA,98,77,26.67,2018.0,55400000.0,,Hospital/Healthcare,840,http://www.linkedin.com/company/xphealth
+Applied Materials - Israel,,ISR,,369,318,16.15,,,,Semiconductors,837,http://www.linkedin.com/company/applied-materials-israel
+Bitcoin.com,Frigate Bay,ST. KITTS,,223,216,3.07,,,,Fintech,836,http://www.linkedin.com/company/bitcoin.com
+Swiss Post Cybersecurity,Aarau,CH,,113,17,562.5,2024.0,,,IT Security,835,http://www.linkedin.com/company/swisspost-cybersecurity
+INERATEC GmbH,Karlsruhe,,,133,110,21.84,2016.0,173000000.0,,Environmental,834,http://www.linkedin.com/company/ineratec
+Crews Bank and Trust,Wauchula,United States,FL,287,284,0.79,1929.0,,,Banking,833,http://www.linkedin.com/company/crewsbank
+CloudHQ,Washington,United States,DC,219,153,43.48,2016.0,,,Real Estate,832,http://www.linkedin.com/company/cloudhq-llc
+Microporous,Piney Flats,United States,TN,140,117,19.28,1934.0,,,Plastics,832,http://www.linkedin.com/company/microporous-llc
+Agency,San Francisco,United States,CA,426,59,629.55,2023.0,,,SaaS,828,http://www.linkedin.com/company/aistaff
+Relay,Camden,UK,,170,107,58.67,2022.0,48800000.0,,eCommerce,827,http://www.linkedin.com/company/relay-tech
+Fujifilm Portugal,Vila Nova de Gaia,POR,Porto,148,128,16.35,1974.0,,,Trade,826,http://www.linkedin.com/company/fujifilm-ffpor
+Chicago Metal Rolled Products,Chicago,United States,IL,252,37,582.76,1908.0,,,Mining,825,http://www.linkedin.com/company/chicago-metal-rolled-products
+ECP (Energy Capital Partners),Summit,United States,NJ,157,156,0.81,2005.0,,,Finance,825,http://www.linkedin.com/company/ecpgp
+Design Collective by Cintas,Chicago,United States,IL,341,251,35.57,,,,Retail,825,http://www.linkedin.com/company/designcollective
+Ofi Invest Asset Management,Paris,FRA,,500,477,4.79,1971.0,,,Finance,825,http://www.linkedin.com/company/ofi-invest-am
+Klim,Berlin,GER,,168,107,57.32,,32200000.000000004,,Environmental,824,http://www.linkedin.com/company/klim-eco
+SafetyCulture,Sydney,AUS,,957,784,22.03,2004.0,384000000.0,1660000000.0,Digital Health,823,http://www.linkedin.com/company/safetyculturehq
+Sanas,Palo Alto,United States,CA,282,158,79.05,,116000000.0,,SaaS,822,http://www.linkedin.com/company/sanastech
+Ascension Medical,Portland,United States,OR,111,17,546.15,,,,Hospital/Healthcare,818,http://www.linkedin.com/company/ascension-medical
+Movement Labs,,United States,,56,28,100.0,,141000000.0,,Fintech,816,http://www.linkedin.com/company/movementlabsxyz
+MADISON CAPITAL GROUP,Charlotte,United States,NC,121,112,7.77,,452000000.0,,Investments,815,http://www.linkedin.com/company/madison-capital-group-holdings-llc
+Maas-De Koning,,NLD,,188,29,548.0,,,,Wholesale,811,http://www.linkedin.com/company/maas-de-koning
+AMEA Power,Dubai,United States,Dubai,211,186,13.79,2016.0,1310000000.0,,Environmental,811,http://www.linkedin.com/company/ameapower
+Capital Funding Group,Baltimore,United States,MD,106,101,5.0,1993.0,1000000000.0,,Finance,811,http://www.linkedin.com/company/capital-funding-group-inc-
+DeepRoute.ai,Fremont,United States,CA,100,94,6.82,2019.0,450000000.0,,Tech Services,810,http://www.linkedin.com/company/deeproute-ai-ltd
+Jupiter Power,Austin,United States,TX,198,149,32.46,2017.0,,,Energy,810,http://www.linkedin.com/company/jupiterpower
+EVE Mobility,Fort Lauderdale,United States,FL,270,245,10.33,,,,Aviation,806,http://www.linkedin.com/company/eveairmobility
+The Geneva Learning Foundation (La Fondation Apprendre Genève),Geneva,SWI,,122,19,536.84,2016.0,,,Education,802,http://www.linkedin.com/company/geneva-learning-foundation
+Christ Temple Church,Clinton,,MD,109,17,546.15,,,,Civil,801,http://www.linkedin.com/company/christ-temple-church
+Onebrief,Austin,United States,TX,197,87,125.68,2019.0,95800000.0,,AI,800,http://www.linkedin.com/company/onebrief
+Harbinger,Gardena,United States,CA,362,192,88.57,2021.0,200000000.0,,Automotive,799,http://www.linkedin.com/company/harbingermotors
+Persona Identities,San Francisco,United States,CA,459,323,42.42,2018.0,417000000.0,2000000000.0,IT Security,799,http://www.linkedin.com/company/persona-identities
+happy,,United States,NJ,238,36,552.0,,,,Food,798,http://www.linkedin.com/company/we-are-happy-products
+General Chemical Corp.,Brighton,United States,MI,102,16,521.43,1980.0,,,Chemicals,796,http://www.linkedin.com/company/genchem
+Centre de production de produits biologiques (CPPB) inc. / Biologics Manufacturing Centre (BMC),Montreal,CAN,QC,121,19,535.71,2021.0,,,Nonprofit,795,http://www.linkedin.com/company/centre-de-production-de-produits-biologiques-cppb-inc-biologics-manufacturing-centre-bmc-inc
+Crisp Data Platform for the Food Industry,New York,United States,NY,272,209,29.68,2016.0,138000000.0,,Analytics,794,http://www.linkedin.com/company/gocrisp
+Suno,Cambridge,United States,MA,185,55,239.13,2022.0,125000000.0,,AI,794,http://www.linkedin.com/company/sunomusic
+GT Medical Technologies,Tempe,United States,AZ,115,96,20.78,2017.0,110000000.0,,Medical Equip,791,http://www.linkedin.com/company/gt-medical-technologies-inc
+Best Building Supplies Near Me,Austin,United States,TX,114,18,533.33,,,,Landscaping,790,http://www.linkedin.com/company/best-building-supplies-near-me
+Forge Nano,Thornton,United States,CO,117,113,3.64,2011.0,132000000.0,,Technology,788,http://www.linkedin.com/company/forgenano
+Lithium Americas Corp.,Vancouver,CAN,BC,150,118,27.69,,,,Mining,781,http://www.linkedin.com/company/lithiumamericas
+Astera Labs,Santa Clara,United States,CA,543,336,61.64,2017.0,232000000.0,3150000000.0,Semiconductors,780,http://www.linkedin.com/company/astera-labs
+Aypa Power,,,,201,136,47.32,,650000000.0,,Environmental,779,http://www.linkedin.com/company/aypa
+Fuji Film U.S.A.,Valhalla,United States,NY,207,198,4.97,2011.0,,,Trade,779,http://www.linkedin.com/company/pt-fujifilm-indonesia
+Codesoft,,United States,,355,54,554.55,1989.0,,,Tech Services,776,http://www.linkedin.com/company/codesoft
+Finmo,Singapore,SGP,,109,52,110.0,2021.0,30300000.0,,Finance,776,http://www.linkedin.com/company/finmotech
+Anaergia,Burlington,CAN,ON,234,228,2.66,,,,Environmental,776,http://www.linkedin.com/company/anaergia
+Sublime Systems,Somerville,United States,MA,182,132,38.27,2020.0,131000000.0,,Construction,776,http://www.linkedin.com/company/sublime-cement
+Impulse Space Propulsion,El Segundo,United States,CA,270,156,73.39,,225000000.0,,Aviation,774,http://www.linkedin.com/company/impulse-space
+OpenEvidence,Cambridge,United States,MA,33,28,19.05,2021.0,135000000.0,,AI,774,http://www.linkedin.com/company/openevidence
+SafelyYou,San Francisco,United States,CA,133,110,20.22,,130000000.0,,Digital Health,772,http://www.linkedin.com/company/safelyyou
+XYZ,Warsaw,POL,,914,91,896.39,2024.0,,,Tech Services,772,http://www.linkedin.com/company/xyzpl
+Welspun Corp Limited,Mumbai,IN,,704,406,73.56,,,,Manufacturing,770,http://www.linkedin.com/company/welspun-corp-limited
+Colectivo Anonimo,Zürich,CH,,161,26,511.76,,,,Retail,769,http://www.linkedin.com/company/colectivo-anonimo
+Surf Internet,Elkhart,United States,IN,212,169,25.35,1999.0,375000000.0,,Telecom,768,http://www.linkedin.com/company/surfinternet
+DIGANTARA,Bangalore,IND,,85,45,88.37,2018.0,,,Defense,766,http://www.linkedin.com/company/digantara
+AQR Capital Management,Greenwich,United States,CT,828,757,9.41,,,,Investments,765,http://www.linkedin.com/company/aqr-capital-management
+InMobi,Singapore,SGP,,150,58,157.5,2007.0,466000000.0,1000000000.0,Martech,764,http://www.linkedin.com/company/inmobi
+MAK,Oslo,NOR,,129,21,500.0,2015.0,,,NonProfit,762,http://www.linkedin.com/company/makorg
+Heck Capital Advisors,Rhinelander,United States,WI,36,30,20.83,2007.0,,,Finance,761,http://www.linkedin.com/company/heck-capital-advisors
+Frazier Financial Advisors,Columbus,United States,OH,24,21,15.79,1997.0,,,Investments,755,http://www.linkedin.com/company/ffaupperarlington
+SmarterDx,New York,United States,NY,185,66,178.72,2020.0,71000000.0,,Hospital/Healthcare,754,http://www.linkedin.com/company/smarterdx
+Ati Motors,Bangalore,IND,,292,227,28.39,2017.0,34700000.0,,Manufacturing,752,http://www.linkedin.com/company/ati-motors
+Quantum Brilliance,Canberra,,,107,102,5.32,2019.0,50500000.0,,Hardware,749,http://www.linkedin.com/company/quantum-brilliance
+Skip,San Francisco,United States,CA,133,22,505.56,,,,IOT,748,http://www.linkedin.com/company/skipwithjoy
+Barber Shop and Co,Glen Burnie,United States,MD,350,55,532.56,,,,Retail,748,http://www.linkedin.com/company/barber-shop-&-co
+Hydrolix,Portland,United States,OR,190,87,119.18,2018.0,149000000.0,,Tech Services,748,http://www.linkedin.com/company/hydrolix
+Redaptive,San Francisco,United States,CA,412,408,0.86,,608000000.0,1000000000.0,Energy,745,http://www.linkedin.com/company/redaptive-inc
+Sylndr,Cairo,EG,,277,226,22.47,2022.0,,,Retail,744,http://www.linkedin.com/company/sylndr
+SpotDraft,Bangalore,IND,,330,253,30.63,2017.0,98300000.0,,Analytics,740,http://www.linkedin.com/company/spotdraft
+Aerospace Manufacturing Corporation,Wallington,,NJ,271,44,515.15,1986.0,,,Aviation,735,http://www.linkedin.com/company/aerospace-manufacturing-corporation
+Justpoint,New York,United States,NY,121,41,200.0,2018.0,224000000.0,,Digital Health,735,http://www.linkedin.com/company/thejustpoint
+Luminance,London,UK,,340,201,69.41,2015.0,168000000.0,,AI,734,http://www.linkedin.com/company/luminancetech
+Florida Youth Soccer Association,Auburndale,United States,FL,541,81,569.01,1974.0,,,Sports,734,http://www.linkedin.com/company/florida-youth-soccer-association
+3PBIOVIAN,Berlin,DEU,,399,64,526.83,,,,Pharma,730,http://www.linkedin.com/company/3pbiovian
+Electronic Environments,Atlanta,United States,GA,124,21,485.71,2002.0,,,Construction,728,http://www.linkedin.com/company/electronic-environments
+Qventus,Mountain View,United States,CA,240,175,36.77,,200000000.0,,Digital Health,725,http://www.linkedin.com/company/qventus-inc
+Gamemano,Bengaluru East,IND,,117,20,466.67,2021.0,,,SaaS,720,http://www.linkedin.com/company/gamemano
+Centaurus Financial,Anaheim,United States,CA,254,247,2.91,1992.0,,,Finance,717,http://www.linkedin.com/company/centaurus-financial-
+Fervo,Houston,United States,TX,193,126,53.54,2017.0,676000000.0,,Environmental,715,http://www.linkedin.com/company/fervo-energy
+DoorLoop,Miami,United States,FL,210,146,43.65,,130000000.0,,Tech Services,714,http://www.linkedin.com/company/doorloop
+Hammerspace,Los Altos,United States,CA,198,130,50.91,2018.0,157000000.0,,Tech Services,714,http://www.linkedin.com/company/hammerspace
+Albert Invent,Bay Area,United States,CA,157,96,62.5,2022.0,49200000.0,,SaaS,710,http://www.linkedin.com/company/albert-invent
+Limelight Lab Grown Diamonds,Mumbai,IN,,134,83,60.66,2019.0,12000000.0,,Consumer,707,http://www.linkedin.com/company/limelight-lab-grown-diamonds
+Gridware,Sacramento ,United States,CA,91,52,73.81,2020.0,44200000.0,,AI,706,http://www.linkedin.com/company/gridwareinc
+Sitemate Technologies,Sydney,AUS,,160,100,59.79,2015.0,41600000.0,,Tech Services,705,http://www.linkedin.com/company/sitemate-technologies
+Miracle Mile Advisors,Los Angeles,United States,CA,131,100,31.65,2007.0,,,Finance,704,http://www.linkedin.com/company/miracle-mile-advisors
+SoundHound,Santa Clara,United States,CA,630,425,48.28,2005.0,215000000.0,2100000000.0,AI,703,http://www.linkedin.com/company/soundhoundai
+Omaha Productions,Los Angeles,United States,CA,185,56,228.57,,,,Entertainment,703,http://www.linkedin.com/company/omaha-productions
+Technical and Scientific Application,Houston,United States,TX,891,111,703.74,,,,Tech Services,703,http://www.linkedin.com/company/tsaincorporated
+Liberty Baptist Church,,United States,,189,33,472.0,,,,Religious,702,http://www.linkedin.com/company/liberty-baptist-church
+Northvolt Poland,,POL,,112,97,15.73,,,,Energy,702,http://www.linkedin.com/company/northvolt-poland
+UVEye,Teaneck,United States,NJ,280,233,20.28,2014.0,393000000.0,800000000.0,IT Security,701,http://www.linkedin.com/company/uveye
+VA,Denver,United States,CO,975,106,819.57,2005.0,,,Architecture,701,http://www.linkedin.com/company/vaplus-bim
+KOLON Corporation,과천시,KR,,102,90,13.25,,,,Investments,699,http://www.linkedin.com/company/koloncorp
+UB Greensfelder,,United States,MO,359,60,500.0,,,,Legal,696,http://www.linkedin.com/company/ubg-law
+Kenz,Ramallah,,,142,25,465.0,2017.0,,,Apparel,695,http://www.linkedin.com/company/kenz-woman
+Ambak,Gurugram,IN,,202,47,324.32,2023.0,10200000.0,,Finance,695,http://www.linkedin.com/company/ambakofficial
+Phillips Edison and Company,Cincinnati,United States,OH,402,385,4.32,1991.0,1200000000.0,3955000000.0,Real Estate,694,http://www.linkedin.com/company/phillipsedison&company
+Ivy Hospitality,Indianapolis,United States,IN,119,21,473.33,2024.0,,,Hospitality,694,http://www.linkedin.com/company/ivyhospitality
+HUMAN Gesellschaft für Biochemica und Diagnostica mbH,Wiesbaden,GER,,227,39,487.5,1972.0,,,Medical,688,http://www.linkedin.com/company/humandiagnostics
+Colegios.es,Toro,ES,,238,41,479.31,2008.0,,,Education,686,http://www.linkedin.com/company/colegios-es
+Zénith Toulouse Métropole,TOULOUSE,,,157,28,456.0,,,,Arts,685,http://www.linkedin.com/company/zenith-toulouse-metropole
+Starfish Space,Kent,United States,WA,102,70,44.9,,53400000.0,,Aviation,684,http://www.linkedin.com/company/starfish-space
+Institut National des Affaires Stratégiques et Politiques (INASP),Paris,FR,,112,20,466.67,2023.0,,,Nonprofit,684,http://www.linkedin.com/company/inasp-fr
+Chef Robotics,San Francisco,United States,CA,139,96,45.16,2019.0,,,Foodtech,683,http://www.linkedin.com/company/chef-robotics
+VAST data,New York,United States,NY,984,784,25.59,2016.0,398000000.0,9000000000.0,AI,681,http://www.linkedin.com/company/vast-data
+Lumin Digital,San Ramon,United States,CA,301,260,15.82,2016.0,162000000.0,,Fintech,681,http://www.linkedin.com/company/lumindigital
+Fay,,United States,,247,74,233.87,,75000000.0,,SaaS,680,http://www.linkedin.com/company/foodandyou
+Fortitude Family Office,Scottsdale,United States,AZ,31,24,30.0,2021.0,,,Finance,678,http://www.linkedin.com/company/fortitude-family-office
+Maven Securities,,UK,,425,399,6.33,,412000000.0,,Finance,678,http://www.linkedin.com/company/maven-securities
+SiTime Corporation,Santa Clara,United States,CA,433,81,437.84,2005.0,105500000.0,,Semiconductors,677,http://www.linkedin.com/company/sitime
+Parloa,Berlin,DEU,,377,244,49.57,2018.0,91600000.0,1000000000.0,AI,675,http://www.linkedin.com/company/parloa
+Castlelake,Minneapolis,United States,MN,293,289,1.48,,819000000.0,,Investments,675,http://www.linkedin.com/company/castlelake
+Shell India Marketing Private Limited,Houston,United States,TX,264,204,29.22,,3520000.0,192178000000.0,Utilities,674,http://www.linkedin.com/company/shells-gas-station
+BlueOval SK,Stanton,United States,TN,648,471,37.43,2022.0,,,Automotive,674,http://www.linkedin.com/company/blueovalsk
+Aligned Data Centers,Plano,United States,TX,405,309,30.99,2013.0,14000000000.0,,Tech Services,673,http://www.linkedin.com/company/aligned-energy
+DISSH,Brisbane City,AUS,,268,47,465.71,2001.0,,,Retail,672,http://www.linkedin.com/company/dissh
+STORY at Macy's - NYC,New York,United States,NY,207,148,39.82,,,,Retail,669,http://www.linkedin.com/company/cube-ventures
+Skylo Technologies,Palo Alto,United States,CA,132,98,34.52,2017.0,193000000.0,,Telecom,668,http://www.linkedin.com/company/skylotech
+Battery Storage,Oakland,United States,CA,124,103,20.48,2019.0,,,Fintech,668,http://www.linkedin.com/company/primergysolar
+Talentrise Technokrate,Nagpur,United States,,210,37,461.29,2020.0,,,Tech Services,668,http://www.linkedin.com/company/telentrisetechnokrate
+Vertical Aerospace Ltd.,Bristol,UK,,545,480,13.5,2016.0,,1817000000.0,Aviation,665,http://www.linkedin.com/company/vertical-aerospace-ltd
+Miller Architects,Oklahoma City,United States,OK,120,22,440.0,1998.0,,,Architecture,663,http://www.linkedin.com/company/miller-architects-inc.
+Gregorys Coffee,,,,251,169,48.84,2006.0,,,Food,661,http://www.linkedin.com/company/gregorys-coffee
+Prophecy,San Francisco,United States,CA,183,141,29.55,2017.0,116000000.0,,Tech Services,661,http://www.linkedin.com/company/prophecy-io
+Fourth Sail Capital,Georgetown,KY,,39,35,9.68,2018.0,,,Investments,659,http://www.linkedin.com/company/fourth-sail-capital
+To-Let Globe,Lucknow,IN,,371,65,471.19,2022.0,,,Non-profit Organizations,659,http://www.linkedin.com/company/to-let-globe
+Document IT,Reinach,United States,,141,26,447.37,1999.0,,,Tech Services,658,http://www.linkedin.com/company/document-it-llc
+Solace,Redwood City,United States,CA,226,56,306.25,2022.0,,,Hospital/Healthcare,658,http://www.linkedin.com/company/find-solace
+Good Ads Matter,Mumbai,IN,,241,43,462.86,2022.0,,,Marketing,658,http://www.linkedin.com/company/good-ads-matter
+Sandbox VR,San Mateo,United States,CA,540,506,6.63,2016.0,127000000.0,,Entertainment,656,http://www.linkedin.com/company/sandboxvr
+Cepheo,Copenhagen,DEN,,387,68,471.11,,,,Tech Services,656,http://www.linkedin.com/company/cepheo
+Olé life,,United States,,120,95,27.4,,,,Insurance,656,http://www.linkedin.com/company/olelife
+Félix,Remote,United States,OR,268,155,73.04,2021.0,99000000.0,,Finance,655,http://www.linkedin.com/company/felix-pago
+Leeward Renewable Energy,Dallas,United States,TX,436,423,3.13,,1620000000.0,,Environmental,655,http://www.linkedin.com/company/leeward-renewable-energy
+Sparta Commodities,Geneva,SWI,,221,154,43.22,,,,Energy,654,http://www.linkedin.com/company/sparta-commodities
+Electrovaya,Mississauga,CAN,ON,105,84,25.0,1997.0,,,Environmental,654,http://www.linkedin.com/company/electrovaya
+Novarc Technologies,North Vancouver,CAN,BC,153,123,23.3,2013.0,88900000.0,,Engineering,653,http://www.linkedin.com/company/novarc-technologies-inc-
+RevBio,Lowell,United States,MA,39,37,6.45,2014.0,42500000.0,,Medical,653,http://www.linkedin.com/company/revbio-inc
+Ara Partners,Houston,United States,TX,124,100,23.91,2017.0,,,Investments,653,http://www.linkedin.com/company/ara-partners
+Stoke Space,Seattle,United States,WA,273,160,70.63,2019.0,489000000.0,,Defense,652,http://www.linkedin.com/company/stoke-space
+LucidHealth,Columbus,United States,OH,659,104,533.7,2018.0,,,Digital Health,652,http://www.linkedin.com/company/lucidhealth
+Stonebridge Financial Group,Wormleysburg,United States,PA,37,36,3.23,2002.0,,,Finance,650,http://www.linkedin.com/company/stonebridge-financial-group-llc
+The Picklr,Kaysville,United States,UT,234,128,82.95,2021.0,9000000.0,,Fitness,649,http://www.linkedin.com/company/thepicklr
+SOIL and WATER CONSERVATION DISTRICT,Condon,,OR,150,28,440.91,1991.0,,,NonProfit,649,http://www.linkedin.com/company/soil-&-water-conservation-district
+Matrix Renewables,Madrid,SPA,,163,135,20.56,2020.0,292000000.0,,Energy,648,http://www.linkedin.com/company/matrixrenewables
+Eleos Health,Boston,United States,MA,222,160,39.13,2019.0,126000000.0,,Analytics,648,http://www.linkedin.com/company/eleoshealth
+Sateliot,Barcelona,ESP,,106,88,19.72,2018.0,137000000.0,,Telecom,647,http://www.linkedin.com/company/sateliot
+The Animal Hospital,Slingerlands,United States,NY,408,70,482.54,1974.0,,,Veterinary,647,http://www.linkedin.com/company/the-animal-hospital
+Kinetik,Midland,United States,TX,337,283,19.21,2012.0,,,Energy,647,http://www.linkedin.com/company/kinetikhldgs
+Linamar Transportation,Guelph,CAN,ON,118,112,4.55,1986.0,,,Transportation,646,http://www.linkedin.com/company/linamar-transportation-inc-
+Pantera Capital,Menlo Park,United States,CA,177,149,19.35,2003.0,,,Fintech,645,http://www.linkedin.com/company/pantera-capital
+Monroe Capital,Chicago,United States,IL,326,280,16.3,2004.0,34000000.0,,Finance,643,http://www.linkedin.com/company/monroe-capital
+Southland Steel Fabricators,Greensburg,United States,LA,161,124,29.63,,,,Construction,640,http://www.linkedin.com/company/southland-steel-fabricators-inc.
+Navteq’s,Chicago,United States,IL,111,21,426.67,1985.0,,,Tech Services,639,http://www.linkedin.com/company/navteqmaps
+X-Bow Systems,Albuquerque,United States,NM,203,116,74.49,2016.0,124000000.0,,Defense,639,http://www.linkedin.com/company/xbowsystems
+Expedia Group,With exposed-brick walls,,,97,77,25.42,,,,Hospitality,638,http://www.linkedin.com/company/estelar-cartagena-de-indias-hotel-y-centro-de-convenciones
+LevelBlue,Dallas,United States,TX,366,66,450.91,,,,IT Security,637,http://www.linkedin.com/company/levelbluecyber
+PropHero,Sydney,AUS,,200,101,98.9,2021.0,,,Real Estate,636,http://www.linkedin.com/company/propheroinvestment
+Eclypsium,Portland,United States,OR,124,112,9.8,2017.0,94200000.0,,IT Security,633,http://www.linkedin.com/company/eclypsium
+True Anomaly,Denver,United States,CO,195,156,25.0,2022.0,390000000.0,,Defense,633,http://www.linkedin.com/company/true-anomaly
+Flow Alkaline Spring Water,Toronto,CAN,ON,170,154,10.17,2014.0,45000000.0,,Food,633,http://www.linkedin.com/company/flow-hydration
+Axiado Corporation,San Jose,United States,CA,105,76,37.31,,95300000.0,,IT Security,632,http://www.linkedin.com/company/axiado-corporation
+GalaxEye Space,,,,121,62,96.15,2021.0,13500000.0,,Defense,632,http://www.linkedin.com/company/galaxeye
+WeVOIS Labs Pvt. Ltd.,Jaipur,,,207,163,26.52,,8460000.0,,Environmental,631,http://www.linkedin.com/company/wevois-labs-pvt-ltd
+Twentyeight Health,Brooklyn,United States,NY,86,71,21.82,2018.0,24300000.0,,Health,631,http://www.linkedin.com/company/twentyeight-health
+Soccer,Petaluma,United States,CA,136,26,421.74,,,,Sports,631,http://www.linkedin.com/company/soccer-inc
+ToneTag,Bangalore,IND,,165,153,8.55,2014.0,90500000.0,,Fintech,629,http://www.linkedin.com/company/tonetag
+Kiavi,San Francisco,United States,CA,544,481,13.16,2013.0,806000000.0,,Finance,629,http://www.linkedin.com/company/kiavi
+Dcbel,,,,118,111,6.74,,145000000.0,,Environmental,627,http://www.linkedin.com/company/dcbel
+AliceandBob,Paris,FRA,,158,106,48.42,2020.0,,,Tech Services,627,http://www.linkedin.com/company/alice-bob
+Visma Flyt,Oslo,NO,,156,30,429.63,2024.0,,,SaaS,626,http://www.linkedin.com/company/vismaflyt
+Kwajalein Range Services,Honolulu,United States,HI,258,48,435.0,,,,Finance,626,http://www.linkedin.com/company/kwajalein-range-services-llc
+Veza,San Francisco,United States,CA,275,200,36.9,2020.0,125000000.0,800000000.0,IT Security,626,http://www.linkedin.com/company/veza
+Puttshack,London,UK,,748,738,1.4,2017.0,256000000.0,,Hospitality,626,http://www.linkedin.com/company/puttshack
+CleanCapital,New York,United States,NY,108,103,4.82,2015.0,941000000.0,,Environmental,625,http://www.linkedin.com/company/cleancapital
+Trust Point,La Crosse,United States,WI,125,120,4.04,1913.0,,,Finance,624,http://www.linkedin.com/company/trust-point-inc-
+Vridhi Finserv Home Finance Limited,,,,271,131,105.94,2022.0,54900000.0,,Finance,623,http://www.linkedin.com/company/vridhi-finserv-home-finance-limited
+Thyme Care,Nashville,United States,TN,400,252,58.24,,184000000.0,,Hospital/Healthcare,623,http://www.linkedin.com/company/thymecare
+Realterm,Annapolis,United States,MD,301,260,15.55,1991.0,,,Real Estate,623,http://www.linkedin.com/company/realterm
+RAYTHEON TECHNICAL SERVICES CO,DALLAS,United States,TX,397,73,443.84,,,,,622,http://www.linkedin.com/company/raytheon-technical-services-co-llc
+Mercy Hospital Springfield,Springfield,United States,NV,255,212,20.23,1891.0,,,Medical,622,http://www.linkedin.com/company/mercy-hospital-springfield
+Solar Landscape,Asbury Park,United States,NJ,312,168,85.94,2012.0,,,Environmental,621,http://www.linkedin.com/company/solarlandscape
+Torq,,,,300,170,76.32,,188000000.0,,Tech Services,621,http://www.linkedin.com/company/torqio
+Mutual Telephone Company,,United States,,160,31,413.04,,,,Telecom,621,http://www.linkedin.com/company/mutual-telephone-company
+NISA Investment Advisors,St. Louis,United States,MO,487,463,5.25,1994.0,,,Finance,621,http://www.linkedin.com/company/nisa-investment-advisors-l-l-c-
+Diamond Hill Capital Management,Columbus,United States,OH,192,189,1.75,2000.0,,586733000.0,Investments,620,http://www.linkedin.com/company/diamond-hill-investments
+Celleste Bio,Tradyon,IL,,214,180,16.67,2022.0,4500000.0,,Food,620,http://www.linkedin.com/company/celleste-bio
+Generali Investments CEE investiční společnost a.s.,Prague 4,CZ,,104,103,1.06,1991.0,,,Investments,619,http://www.linkedin.com/company/generali-investments-cee
+Alpine Construction Corp.,Midlothian,United States,VA,103,20,415.38,1964.0,,,Construction,619,http://www.linkedin.com/company/alpine-construction
+Vridhi Home Finance Ltd,Bengaluru ,IN,,271,133,102.97,2022.0,,,Finance,619,http://www.linkedin.com/company/vridhi-finserv-home-finance-ltd
+Gotion,Fremont,United States,CA,430,365,17.82,2014.0,,,Automotive,618,http://www.linkedin.com/company/gotion-inc-
+Etched.ai,Menlo Park,United States,CA,186,42,340.63,2022.0,125000000.0,,Hardware,618,http://www.linkedin.com/company/etched-ai
+Cardiac Dimensions,Kirkland,United States,WA,77,70,10.34,2001.0,361000000.0,,Medical Equip,616,http://www.linkedin.com/company/cardiac-dimensions
+Zingbus,Gurugram,,,355,286,24.32,2019.0,14300000.0,,Consumer,615,http://www.linkedin.com/company/zingbus
+Virtix Health,Phoenix,United States,AZ,254,48,433.33,,,,Hospital/Healthcare,615,http://www.linkedin.com/company/virtix-health
+ENGINEERING,Arkansas,United States,WV,179,35,413.79,,,,Internet,614,http://www.linkedin.com/company/engineering-mechzo
+Statsig,Bellevue,USA,WA,145,94,39.36,2021.0,,1100000000.0,Tech Services,614,http://www.linkedin.com/company/statsig
+FINBOURNE Technology,London,UK,,286,252,13.45,2016.0,162000000.0,,Tech Services,613,http://www.linkedin.com/company/finbourne
+Electra,Boulder,United States,CO,191,153,24.79,2020.0,214000000.0,,Mining,613,http://www.linkedin.com/company/electra-earth
+Infinite Reality,Norwalk,United States,CT,292,206,41.53,2019.0,4850000000.0,,Internet,612,http://www.linkedin.com/company/theinfinitereality
+Hypori Virtual Mobility,Austin,United States,TX,126,115,9.26,2012.0,55300000.0,,IT Security,611,http://www.linkedin.com/company/hypori
+Valeo Financial Advisors,Indianapolis,United States,IN,220,197,11.8,2003.0,,,Finance,610,http://www.linkedin.com/company/valeo-financial-advisors-llc
+The Mary Stucko Agency Farm Bureau Insurance,Okemos,United States,MI,205,39,425.0,2008.0,,,Insurance,610,http://www.linkedin.com/company/the-mary-stucko-agency-farm-bureau-insurance
+Welspun One Logistics Parks,Mumbai,IND,,278,251,11.05,2019.0,,,Transportation,609,http://www.linkedin.com/company/welspunone
+Hayden AI,Oakland,United States,CA,166,137,20.66,2019.0,178000000.0,,AI,607,http://www.linkedin.com/company/haydenaitech
+Arkade,,,,332,281,17.93,1984.0,,,Real Estate,607,http://www.linkedin.com/company/arkade-group
+Basilea,Basel,,,291,268,8.46,2000.0,,,Fintech,606,http://www.linkedin.com/company/basilea-pharmaceutica-ltd
+William Scottsman,Newbury Park,United States,CA,92,90,1.69,,,,Construction,605,http://www.linkedin.com/company/william-scottsman
+TSW,Richmond,United States,VA,85,84,1.33,1969.0,,,Investments,603,http://www.linkedin.com/company/thompson-siegel-&-walmsley
+Accueil,Limoges,,,553,98,459.76,1996.0,,,Restaurants,603,http://www.linkedin.com/company/groupe-la-pataterie
+selbst,Vienna,AT,,439,80,450.0,2024.0,,,Hospital/Healthcare,603,http://www.linkedin.com/company/selbst
+Tembo,London,UK,,140,80,76.19,,27900000.0,,Finance,603,http://www.linkedin.com/company/tembo-money
+AlTi Tiedemann Global,,United States,,432,412,5.07,,,,Finance,602,http://www.linkedin.com/company/altiglobal
+Fundraise Up,Brooklyn,United States,NY,273,204,33.7,2017.0,83800000.0,,AI,601,http://www.linkedin.com/company/fundraiseup
+ADVANCE Scale,Lindenwold,United States,NJ,348,66,425.49,1973.0,,,Industrial,600,http://www.linkedin.com/company/advance-scale-company
+Parafin,San Francisco,United States,CA,128,111,15.91,2020.0,198000000.0,,Finance,599,http://www.linkedin.com/company/buildparafin
+ANDRITZ Hydro Canada,Pointe-Claire,CAN,QC,300,290,3.4,,,,Manufacturing,599,http://www.linkedin.com/company/andritz-hydro-canada-inc.
+The Helper Bees,Austin,United States,TX,310,276,12.56,2015.0,61400000.0,,Insurance,599,http://www.linkedin.com/company/the-helper-bees
+UJET.cx,San Francisco,United States,CA,339,242,40.0,2015.0,,,Tech Services,598,http://www.linkedin.com/company/ujetcx
+enfinitec,’s-Hertogenbosch,NLD,,180,36,403.7,2021.0,,,Consumer,597,http://www.linkedin.com/company/enfinitec
+Ursa Major,Berthoud,United States,CO,464,403,15.2,2015.0,274000000.0,,Aviation,596,http://www.linkedin.com/company/ursamajortech
+Phaedon,Minneapolis,United States,MN,184,37,400.0,,,,Marketing Services,594,http://www.linkedin.com/company/phaedon
+UniUni,Richmond,CAN,BC,538,378,42.49,2019.0,135000000.0,,Tech Services,593,http://www.linkedin.com/company/uniunidelivery
+Medical Arts Pharmacy,Kerrville,United States,TX,154,31,400.0,1992.0,,,Pharma,593,http://www.linkedin.com/company/medical-arts-pharmacy
+Flores,Nijmegen,NL,,154,31,405.0,1953.0,,,Restaurants,593,http://www.linkedin.com/company/floresnijmegen
+CXE,Annapolis,United States,MD,124,25,404.35,1993.0,,,Training,592,http://www.linkedin.com/company/cxe-incorporated
+Qure.ai,Mumbai,IND,,400,379,5.33,2016.0,157000000.0,,Medical Equip,590,http://www.linkedin.com/company/qure.ai
+WCM Investment Management,Laguna Beach,United States,CA,111,102,9.28,1976.0,,,Investments,590,http://www.linkedin.com/company/wcm-investment-management
+Lucidity,Bangalore,IND,,116,70,65.63,2021.0,26800000.0,,SaaS,589,http://www.linkedin.com/company/lucidity-cloud
+Lindus Health,London,,,154,93,66.23,,81100000.0,,Research,589,http://www.linkedin.com/company/lindushealth
+Décor World Services,OrlÃ©ans,,,240,47,410.0,2017.0,,,Cosmetics,589,http://www.linkedin.com/company/dws-engraving
+Mokobara,Bengaluru North,IND,,218,120,82.35,2019.0,,,Retail,588,http://www.linkedin.com/company/mokobara
+Swap,London,UK,,168,67,149.15,2022.0,58300000.0,,SaaS,588,http://www.linkedin.com/company/sw-ap
+The Bear House,Bengaluru,IN,,120,58,104.55,2017.0,,,Apparel,587,http://www.linkedin.com/company/the-bear-house
+Wealth.com,,,,187,125,49.45,,54000000.0,,Finance,587,http://www.linkedin.com/company/wearewealth
+Silicon Ranch Corporation,Nashville,United States,TN,334,254,31.61,2011.0,,,Energy,586,http://www.linkedin.com/company/silicon-ranch-corporation
+ZeroAvia,Hollister,United States,CA,431,404,6.73,2018.0,297000000.0,,Aviation,585,http://www.linkedin.com/company/zeroavia
+On.Energy,Miami,United States,FL,111,105,5.32,2016.0,,,Environmental,585,http://www.linkedin.com/company/on-es
+Emmvee Group,EMMVEE Photovoltaic Power Private Limited,IN,,247,119,107.41,1992.0,,,Energy,585,http://www.linkedin.com/company/emmvee-group
+Affiliated Managers Group,West Palm Beach,United States,FL,385,296,29.78,1993.0,,6362000000.0,Finance,584,http://www.linkedin.com/company/affiliated-managers-group
+Park Avenue Securities,,United States,,340,336,1.09,,,,Finance,584,http://www.linkedin.com/company/park-avenue-securities
+Clasen Quality Chocolate,Madison,United States,WI,250,235,6.32,,,,Food,583,http://www.linkedin.com/company/clasen-quality-chocolate
+Novo A/S,Greenway,AU,,402,339,18.77,,,,Investments,582,http://www.linkedin.com/company/novo-a-s
+Niron Magnetics,Minneapolis,United States,MN,98,77,25.71,2013.0,,,Technology,580,http://www.linkedin.com/company/niron-magnetics-inc.
+Candid Health,San Francisco,United States,CA,149,94,57.97,,100000000.0,,Hospital/Healthcare,579,http://www.linkedin.com/company/candid-health
+OrganOx,Oxford,,,227,130,74.29,2008.0,238000000.0,,Medical Equip,579,http://www.linkedin.com/company/organox
+Taktile,,,,175,111,57.69,,81700000.0,,Fintech,578,http://www.linkedin.com/company/taktile1
+Bruntwood,Manchester,UK,,760,753,0.88,1976.0,,,Real Estate,577,http://www.linkedin.com/company/bruntwood
+Protos Software,Tempe,United States,AZ,102,21,400.0,2002.0,,,Tech Services,577,http://www.linkedin.com/company/protos-software-llc
+Loft Orbital,San Francisco,United States,CA,340,273,24.37,2016.0,894000000.0,,Defense,577,http://www.linkedin.com/company/loft-orbital
+Battolyser Systems,Schiedam,NET,,115,101,13.73,2018.0,79800000.0,,Manufacturing,576,http://www.linkedin.com/company/battolysersystems
+Petfolk,Charlotte,United States,NC,224,174,28.95,,119000000.0,,Veterinary,574,http://www.linkedin.com/company/mypetfolk
+Raghu Vamsi Aerospace Group,Hyderabad,IN,,354,289,22.33,1992.0,,,Aviation,574,http://www.linkedin.com/company/raghu-vamsi-group
+RYLA,Provo,United States,UT,140,29,395.45,2016.0,,,Apparel,573,http://www.linkedin.com/company/vauva
+kPoint Technologies,Chicago,United States,IL,540,100,439.39,,,,Tech Services,572,http://www.linkedin.com/company/kpoint-technologies
+Bogart Wealth,McLean,United States,VA,50,43,16.22,2016.0,,,Investments,572,http://www.linkedin.com/company/bogart-wealth
+Precision Neuroscience,,,,106,69,53.06,,155000000.0,,Medical Equip,572,http://www.linkedin.com/company/precision-neuroscience-corporation
+Lawhive,London,UK,,159,49,216.67,2021.0,,,Legal,571,http://www.linkedin.com/company/joinlawhive
+Waverly Advisors,Birmingham,United States,AL,260,154,68.1,1999.0,,,Finance,571,http://www.linkedin.com/company/waverlyadvisors-llc
+Scimplify,Bengaluru,IN,,251,59,326.32,2023.0,50700000.0,,Manufacturing,570,http://www.linkedin.com/company/scimplify
+Phoenix Tailings,Boston,United States,MA,102,74,40.0,,88900000.0,,Mining,570,http://www.linkedin.com/company/phoenixtailings
+LambdaTest,San Francisco,United States,CA,728,593,22.77,2017.0,108000000.0,,DevOps,569,http://www.linkedin.com/company/lambdatest
+Formance,New York City,FR,,33,29,15.38,2021.0,31000000.0,,SaaS,569,http://www.linkedin.com/company/formancehq
+Valon,New York,United States,NY,331,278,19.14,2019.0,233000000.0,,Tech Services,569,http://www.linkedin.com/company/valon-technologies
+Eikon Therapeutics,Hayward,United States,CA,484,447,8.22,,1160000000.0,,3D,569,http://www.linkedin.com/company/eikon-therapeutics-inc
+44.01,Muscat,,,171,113,50.55,2020.0,60200000.0,,Environmental,568,http://www.linkedin.com/company/44-01
+Epirus,Torrance,United States,CA,231,210,9.89,2018.0,543000000.0,1350000000.0,Defense,568,http://www.linkedin.com/company/epirus
+iwoca,London,UK,,573,469,22.1,2011.0,,,Fintech,568,http://www.linkedin.com/company/iwoca
+Sikich India,,United States,IL,227,149,53.06,,,,Consulting,568,http://www.linkedin.com/company/sikichindia
+PowerGlobal,Pasadena,United States,CA,98,20,376.47,2019.0,,,Environmental,567,http://www.linkedin.com/company/powerglobal
+ROCKWOOL North America,Milton,,,527,491,7.29,1937.0,3140000.0,,Materials,567,http://www.linkedin.com/company/rockwool-north-america
+Cogna,London,UK,,48,17,175.0,2023.0,19700000.0,,Internet,566,http://www.linkedin.com/company/wearecogna
+AmpIn Energy Transition (Formerly Amp Energy India),New Delhi,IND,,398,305,30.61,,451000000.0,,Energy,565,http://www.linkedin.com/company/ampin-energy-transition
+Flow48,,United States,,36,26,36.36,2022.0,96800000.0,,Finance,565,http://www.linkedin.com/company/flow48financing
+Kuoni Destination Management USA,New York,United States,NY,286,58,393.75,1906.0,,,Hospitality,565,http://www.linkedin.com/company/kuoni-destination-management-usa
+ARS Pharmaceuticals,San Diego,United States,CA,188,54,252.38,,,,Pharma,564,http://www.linkedin.com/company/arspharmaceuticals
+Mahindra Susten,Mumbai,IN,,647,556,16.34,2010.0,,,Energy,563,http://www.linkedin.com/company/mahindra-susten
+IAV Poland,Opole,POL,,162,34,372.0,2022.0,,,Tech Services,563,http://www.linkedin.com/company/iav-poland
+Pulse 2024,Urbana,United States,IL,643,115,457.95,,,,Education,563,http://www.linkedin.com/company/pulseuiuc
+NEXAMP,Boston,United States,MA,650,640,1.51,2007.0,1650000000.0,,Environmental,563,http://www.linkedin.com/company/nexamp
+Music.AI,,United States,UT,261,160,63.27,,11900000.0,,SaaS,563,http://www.linkedin.com/company/musicai
+Midjourney,San Francisco,United States,CA,171,144,18.6,,,,AI,563,http://www.linkedin.com/company/midjourney
+Nooks,,,,466,90,413.95,,,,Tech Services,563,http://www.linkedin.com/company/nooksapp
+Ema Unlimited,San Francisco,United States,CA,121,38,225.0,2023.0,75000000.0,,SaaS,562,http://www.linkedin.com/company/ema-unlimited
+Nest Lease,Szczepin,United States,,114,24,378.95,2024.0,,,Finance,561,http://www.linkedin.com/company/nest-lease
+Heliene Home,Sault Ste. Marie,CAN,ON,177,134,32.0,2010.0,390000000.0,,Environmental,561,http://www.linkedin.com/company/heliene
+CODTECH IT SOLUTIONS,Hyderabad ,IN,,738,126,485.96,2023.0,,,Tech Services,560,http://www.linkedin.com/company/codtechitsolutions
+Altera Real Estate,,United States,,503,95,433.72,,,,Real Estate,559,http://www.linkedin.com/company/altera-real-estate
+Zelt,Belgravia,UK,,36,19,82.35,2016.0,10900000.0,,SaaS,558,http://www.linkedin.com/company/zelthq
+IT Vision,Krakow,PL,,189,40,368.75,2000.0,,,Tech Services,558,http://www.linkedin.com/company/it-vision_2
+Validation Cloud,Zug,CHE,,45,44,3.33,2017.0,20800000.0,,Fintech,557,http://www.linkedin.com/company/validationcloud
+Alexi,Toronto,CAN,ON,123,86,44.87,2017.0,14100000.0,,SaaS,556,http://www.linkedin.com/company/alexilawhq
+Sistema.bio,Roma Norte,,,459,407,12.5,2010.0,57000000.0,,Environmental,556,http://www.linkedin.com/company/sistema-biobolsa
+Voyantis,Tel Aviv,ISR,,95,62,52.54,,59800000.0,,Tech Services,556,http://www.linkedin.com/company/voyantis
+The Exploration Company,Wessling,GER,,346,208,66.42,2021.0,235000000.0,,Aviation,556,http://www.linkedin.com/company/exploration-company
+Anyscale,San Francisco,United States,CA,685,124,455.07,2019.0,260000000.0,1000000000.0,AI,555,http://www.linkedin.com/company/joinanyscale
+The ePlane Company,Chennai,IN,,183,129,41.76,2019.0,24000000.0,,Aviation,555,http://www.linkedin.com/company/the-eplane-company
+Roboflow,Des Moines,United States,IA,82,54,51.06,,61000000.0,,Tech Services,554,http://www.linkedin.com/company/roboflow-ai
+Fimple,London,UK,UK,110,78,42.03,2022.0,,,Tech Services,554,http://www.linkedin.com/company/fimpleos
+Auditoria.AI,Santa Clara,United States,CA,77,51,50.0,,60800000.0,,Tech Services,553,http://www.linkedin.com/company/auditoriaai
+The Address Collective,Dublin,IE,,150,32,368.0,2020.0,,,Hospitality,552,http://www.linkedin.com/company/the-address-collective
+AST and Science,Midland,United States,TX,624,516,20.8,,128000000.0,337279000.0,Telecom,552,http://www.linkedin.com/company/ast-spacemobile
+Form Energy,Somerville,United States,MA,985,767,28.41,2017.0,1380000000.0,2100000000.0,Environmental,552,http://www.linkedin.com/company/form-energy
+Atropos Health,Palo Alto,United States,CA,75,50,51.22,2019.0,55000000.0,,Digital Health,552,http://www.linkedin.com/company/atropos-health
+Antora Energy,Fremont,United States,CA,215,117,84.16,2017.0,237000000.0,,Environmental,552,http://www.linkedin.com/company/antora-energy
+Hyro,New York,United States,NY,129,93,39.29,2018.0,51100000.0,,AI,550,http://www.linkedin.com/company/hyroai
+RunSafe Security,McLean,United States,VA,40,22,78.26,2015.0,26200000.0,,IT Security,550,http://www.linkedin.com/company/runsafe-security
+Public.com,New York,United States,NY,893,608,46.64,2017.0,300000000.0,1200000000.0,Fintech,550,http://www.linkedin.com/company/publichello
+Giant Eagle Grocery Stores Supermarkets,Columbus,United States,OH,103,94,9.57,,,,,549,http://www.linkedin.com/company/giant-eagle-grocery-stores-supermarkets
+Conduktor,Jackson,United States,WY,92,62,49.09,2020.0,52000000.0,,SaaS,549,http://www.linkedin.com/company/conduktor
+Mobly,Lehi,United States,UT,36,20,83.33,2023.0,7240000.0,,SaaS,548,http://www.linkedin.com/company/getmobly
+Sentra,Tel Aviv,ISR,,144,105,36.56,2021.0,,,IT Security,548,http://www.linkedin.com/company/sentra-io
+prezent.ai,Los Altos,United States,CA,332,207,59.79,2021.0,44300000.0,100000000.0,Tech Services,548,http://www.linkedin.com/company/prezent-ai
+Analyst,Baltimore,United States,MD,121,26,359.09,,,,Finance,547,http://www.linkedin.com/company/analyst-llc
+Abstract Security,,United States,,45,17,162.5,2023.0,23500000.0,,IT Security,547,http://www.linkedin.com/company/abstractsecurity
+CoLab Software,St. John's,CAN,NL,166,122,36.96,2017.0,44600000.0,,3D,546,http://www.linkedin.com/company/colabsoftware
+arena ai,New York,United States,NY,155,114,36.28,,,,Tech Services,546,http://www.linkedin.com/company/arena-ai
+Amped Fitness,St. Petersburg,United States,FL,254,169,50.39,2016.0,,,Health,545,http://www.linkedin.com/company/ampedfitness
+MaMo TechnoLabs LLP | A CMMI Level 3 Company | Web| App Development | IT Consulting,Vadodara,IND,,125,27,354.55,2011.0,,,Tech Services,544,http://www.linkedin.com/company/mamotechnolabs
+Mission Solar Energy,San Antonio,United States,TX,163,155,4.48,2013.0,,,Environmental,543,http://www.linkedin.com/company/mission-solar-energy
+AceUp,Boston,United States,MA,129,123,5.04,2015.0,32200000.000000004,,EdTech,543,http://www.linkedin.com/company/aceup
+Nazara,Mumbai,IND,,170,163,4.83,2000.0,,,Gaming,542,http://www.linkedin.com/company/nazara-technologies
+MY DR NOW,Chandler,United States,AZ,205,195,5.1,2007.0,,,Hospital/Healthcare,542,http://www.linkedin.com/company/my-dr-now
+Dexory,London,,London,158,119,32.17,,115000000.0,,SaaS,542,http://www.linkedin.com/company/dexory
+Capriotti's Sandwich Shop,Las Vegas,United States,NV,773,689,12.21,1976.0,,,Restaurants,542,http://www.linkedin.com/company/capriottis
+NextDecade,Houston,United States,TX,347,245,41.14,2010.0,89100000.0,,Energy/Oil,542,http://www.linkedin.com/company/next-decade
+Oakworth Capital Bank,Birmingham,United States,AL,210,201,4.88,2008.0,,,Finance,541,http://www.linkedin.com/company/oakworth-capital-bank
+Spait Infotech,San Francisco,United States,CA,319,66,382.61,2010.0,,,SaaS,540,http://www.linkedin.com/company/spait-infotech2024
+The Vistria Group,Chicago,United States,IL,157,134,16.94,,,,Investments,540,http://www.linkedin.com/company/the-vistria-group
+Guedes Resturante,Florianopolis,,Sc,161,35,358.62,,,,Restaurants,540,http://www.linkedin.com/company/guedes-resturante
+ELIVAAS,Gurugram,IN,,243,105,129.63,2023.0,7500000.0,,Hospitality,539,http://www.linkedin.com/company/elivaas
+The Liberty Company Insurance Brokers,Woodland Hills,United States,CA,562,497,13.15,1987.0,,,Insurance,538,http://www.linkedin.com/company/the-liberty-company-insurance-brokers
+Everstage,Chennai,IND,,234,161,45.33,,44700000.0,,Tech Services,538,http://www.linkedin.com/company/everstage
+Federato,Palo Alto,United States,CA,123,57,117.39,2020.0,80600000.0,,Tech Services,538,http://www.linkedin.com/company/federato
+Relay Financial,Toronto,CAN,ON,312,204,1450.0,,51600000.0,,Banking,537,http://www.linkedin.com/company/bankwithrelay
+LINER,ì„œìš¸,,,97,43,125.0,,33400000.0,,Tech Services,537,http://www.linkedin.com/company/liner21
+Oshi Health,New York,United States,NY,191,148,29.37,2018.0,119000000.0,,Digital Health,536,http://www.linkedin.com/company/oshihealth
+EverWind Fuels,Halifax,,,49,44,11.11,,,,Energy,536,http://www.linkedin.com/company/everwind-fuels
+Dyashin Technosoft,Middletown,United States,DE,128,28,368.18,,,,Tech Services,536,http://www.linkedin.com/company/dyashin-technosoft
+Culver Franchising System,Prairie du Sac,United States,WI,359,292,23.11,1984.0,,,Restaurants,536,http://www.linkedin.com/company/culver-franchising-system-llc
+CarePay International,Amsterdam,NET,North Holland,146,114,27.66,2014.0,,,Hospital/Healthcare,535,http://www.linkedin.com/company/carepay-international
+Hospitality Partners,Bethesda,United States,MD,98,21,364.71,1986.0,,,Hospitality,535,http://www.linkedin.com/company/hospitality-partners
+Quantum-Systems,Gilching,DEU,,430,310,39.15,2015.0,,1100000000.0,Aviation,534,http://www.linkedin.com/company/quantum-systems-gmbh
+KDPOF Knowledge Development for POF SL,Tres Cantos,,,240,51,364.29,2010.0,,,Semiconductors,533,http://www.linkedin.com/company/kd-corp
+Navadhan Capital,,United States,,322,215,50.0,2019.0,33600000.0,,Finance,533,http://www.linkedin.com/company/navadhan-capital
+Capstan Medical,Santa Cruz,United States,CA,52,38,37.93,,,,Medical,533,http://www.linkedin.com/company/capstanmedical
+RELISH,Beachwood,United States,OH,142,113,25.69,,35000000.0,,SaaS,531,http://www.linkedin.com/company/relishiq
+Entireti,Sydney,AUS,,118,26,357.89,,,,Finance,531,http://www.linkedin.com/company/entireti
+IonQ,College Park,United States,MD,461,378,22.06,2015.0,,,Hardware,531,http://www.linkedin.com/company/ionq.co
+Arbor Commercial Mortgage,Uniondale,United States,NY,744,729,1.99,1993.0,,2781000000.0,Real Estate,530,http://www.linkedin.com/company/arbor-realty-trust
+Acxion Foodservice,,United States,MD,547,108,407.02,,,,Food,530,http://www.linkedin.com/company/acxion-foodservice
+Aiwyn,Charlotte,United States,NC,144,94,52.86,2020.0,159000000.0,,Accounting,530,http://www.linkedin.com/company/aiwyn
+Arize AI,Berkeley,United States,CA,132,106,25.81,,131000000.0,,AI,530,http://www.linkedin.com/company/arizeai
+Divert,Concord,United States,MA,258,233,10.77,2007.0,,,Environmental,530,http://www.linkedin.com/company/divert
+Enfabrica,Mountain View,United States,CA,155,125,24.35,2019.0,,,SaaS,529,http://www.linkedin.com/company/acebinfra1
+Privy,,United States,,34,21,58.82,,41300000.0,,SaaS,529,http://www.linkedin.com/company/privyio
+Home Sweet Home,Palos Verdes Estates,United States,,299,64,365.31,2004.0,,,Transportation,529,http://www.linkedin.com/company/home-sweet-home-relo
+Nirmata,San Jose,United States,CA,110,89,22.99,,13600000.0,,Tech Services,528,http://www.linkedin.com/company/nirmata
+PeopleOne Health,,,,128,104,22.99,,46600000.0,,Medical Offices,528,http://www.linkedin.com/company/peopleonehealth
+Private Home Care,Belfast,United States,ME,140,31,350.0,2012.0,,,Health,528,http://www.linkedin.com/company/private-home-care-inc.
+VulnCheck,Lexington,United States,MA,32,20,58.82,2021.0,19600000.0,,IT Security,527,http://www.linkedin.com/company/vulncheck
+Isuzu Commercial Truck of America,Anaheim,United States,CA,531,514,3.46,,,,Automotive,526,http://www.linkedin.com/company/isuzutrucks
+SkyWater Technology Foundry,Bloomington,United States,MN,552,536,3.1,2017.0,,227000000.0,Semiconductors,526,http://www.linkedin.com/company/skywater-technology-foundry
+Socket,San Francisco,United States,CA,54,25,119.05,2020.0,10000000.0,,IT Security,525,http://www.linkedin.com/company/socketinc
+PBandJ,Cincinnati,United States,OH,126,28,359.26,2009.0,,,Marketing,525,http://www.linkedin.com/company/makepbj
+12 Tides,San Francisco,United States,CA,117,26,342.86,2019.0,,,Food,525,http://www.linkedin.com/company/12tides
+Toonsutra,Bangalore,INDIA,,46,29,59.09,2022.0,5900000.0,,Entertainment,525,http://www.linkedin.com/company/toonsutra
+Foundations Investment Advisors,Scottsdale,United States,AZ,72,55,31.25,,,,Investments,525,http://www.linkedin.com/company/foundations-investment-advisors
+Willdan Performance Engineering,Lawrence,United States,KS,122,101,20.24,,41600000.0,,Engineering,524,http://www.linkedin.com/company/willdan-performance-engineering
+ConnectDER,Philadelphia,United States,PA,86,74,16.95,2011.0,78700000.0,,Environmental,524,http://www.linkedin.com/company/connectder
+Khazna Data Centers (Khazna),Abu Dhabi,,,249,140,77.5,2012.0,69000000.0,,Tech Services,524,http://www.linkedin.com/company/khaznadatacenters
+Polar Asset Management Partners,Toronto,CAN,ON,179,149,20.14,1991.0,,,Investments,523,http://www.linkedin.com/company/polar-asset-management-partners
+Brightline Trains,Coral Gables,United States,FL,488,479,1.88,2012.0,2560000000.0,,Transportation,523,http://www.linkedin.com/company/brightline-trains
+Filigran,Paris,FRA,,121,59,105.88,2022.0,56600000.0,,SaaS,522,http://www.linkedin.com/company/filigran
+Askable,Fortitude Valley,,,127,62,107.02,2016.0,14200000.0,,Research,522,http://www.linkedin.com/company/askable
+DC BLOX,Atlanta,United States,GA,85,66,29.03,2014.0,285000000.0,,Tech Services,522,http://www.linkedin.com/company/dcblox-inc-
+Community Long Term Care,North Charleston,United States,SC,706,128,452.53,,,,Hospital/Healthcare,522,http://www.linkedin.com/company/community-long-term-care
+퓨리오사에이아이,Santa Clara,,,138,116,18.87,2017.0,,,Hardware,522,http://www.linkedin.com/company/furiosaai
+KDPOF Knowledge Development for POF SL,Berlin,DEU,,240,52,364.29,,,,Semiconductors,521,http://www.linkedin.com/company/kd-corp
+Lumber,San Jose,United States,CA,157,77,103.77,2023.0,,,Finance,521,http://www.linkedin.com/company/lumberfi
+Lumber,San Jose,United States,CA,157,77,103.77,2023.0,,,Finance,521,http://www.linkedin.com/company/lumberfi
+West Valley National Bank,Goodyear,United States,AZ,183,41,347.22,2006.0,,,Banking,520,http://www.linkedin.com/company/west-valley-national-bank
+Joe,Jenks,United States,OK,235,51,359.52,,,,Biotech,520,http://www.linkedin.com/company/joe-inc
+ST Telemedia Global Data Centres,Singapore,SGP,,622,578,7.51,,1750000000.0,,Tech Services,519,http://www.linkedin.com/company/sttgdc
+Clearway Energy Group,San Francisco,United States,CA,914,885,3.23,,2480000000.0,,Environmental,519,http://www.linkedin.com/company/clearway-energy-group
+I Squared Capital Advisors,New York,United States,NY,376,302,24.72,,48600000.0,,Investments,518,http://www.linkedin.com/company/i-squared-capital
+LiquidStack,,,,68,54,26.53,,45000000.0,,Tech Services,518,http://www.linkedin.com/company/liquidstack
+Gotlandsbolaget,Visby,SE,,129,29,341.38,1865.0,,,Transportation,518,http://www.linkedin.com/company/gotlandsbolaget
+Greenvolt Group,Lisboa,POR,,284,245,15.74,,,,Energy,517,http://www.linkedin.com/company/greenvolt-group
+Sonida Senior Living,,United States,TX,825,733,12.55,,,,Consumer Services,516,http://www.linkedin.com/company/sonida-senior-living
+Picton Mahoney Asset Management,Toronto,CAN,ON,178,155,15.56,2004.0,,,Investments,516,http://www.linkedin.com/company/picton-mahoney-asset-management
+IMAGE Studios,Salt Lake City,United States,UT,180,157,14.75,2010.0,,,Fitness,516,http://www.linkedin.com/company/image-studios-360
+Captions,New York,United States,NY,133,93,42.35,,100000000.0,250000000.0,AI,515,http://www.linkedin.com/company/captionsapp
+Ampd Energy,Shatin,,,112,98,14.29,2014.0,64000000.0,,Environmental,515,http://www.linkedin.com/company/ampd_energy
+Montage Gold,Vancouver,CAN,BC,177,40,331.82,,,,Mining,514,http://www.linkedin.com/company/montage-gold-corp
+Suez Canal Economic Zone (SCZONE),Suez,EG,,386,361,7.17,,,,Trade,514,http://www.linkedin.com/company/sczoneegy
+Canada's Drug Agency,Ottawa,CA,ON,269,59,356.6,,,,Research,513,http://www.linkedin.com/company/cda-amc
+Sunbit,Los Angeles,United States,CA,553,516,7.36,2016.0,1180000000.0,1100000000.0,Fintech,513,http://www.linkedin.com/company/sunbit
+Homethrive,Northbrook,United States,IL,132,117,12.62,2018.0,64500000.0,,Health,513,http://www.linkedin.com/company/homethrive-inc
+The Call Center Doctors,Houston,United States,TX,450,94,379.25,2021.0,,,Marketing Services,512,http://www.linkedin.com/company/the-call-center-doctors
+Highview Power,London,UK,,74,61,21.57,2005.0,580000000.0,,Environmental,512,http://www.linkedin.com/company/highviewpower
+Oats Overnight,Tempe,United States,AZ,231,126,82.42,2016.0,66500000.0,,Food,512,http://www.linkedin.com/company/oatsovernight
+Soros Fund Management,,United States,,163,146,11.21,,,,Finance,511,http://www.linkedin.com/company/soros-fund-management
+Equilibrium Energy,San Francisco,United States,CA,155,139,11.21,2021.0,100000000.0,,Energy,511,http://www.linkedin.com/company/equilibrium-energy-inc
+Karya,Bangalore,IND,,136,69,98.31,2021.0,,,Tech Services,511,http://www.linkedin.com/company/karya-inc
+Medical Anesthesia Group PA,Memphis,United States,TN,123,28,350.0,,,,Medical Offices,510,http://www.linkedin.com/company/medical-anesthesia-group-pa
+Centricity WealthTech,Gurugram,IN,,404,228,76.65,2022.0,,,Finance,510,http://www.linkedin.com/company/centricity-wealthtech
+Flosonics Medical,Toronto,CAN,ON,67,56,19.23,2015.0,43400000.0,,Digital Health,509,http://www.linkedin.com/company/flosonics-medical
+Venn LocalZone,New York,United States,NY,119,108,11.0,2002.0,29000000.0,,Tech Services,509,http://www.linkedin.com/company/vennsoftware
+EnergyX,Austin,United States,TX,115,105,8.89,2018.0,179000000.0,,Environmental,508,http://www.linkedin.com/company/energyx
+Agrolend,,,,84,71,18.97,,95300000.0,,Finance,507,http://www.linkedin.com/company/agrolend
+Aspect Biosystems,Vancouver,CAN,BC,136,125,9.09,2013.0,211000000.0,,3D,507,http://www.linkedin.com/company/aspect-biosystems
+orbexspace,,,,334,256,30.53,2015.0,97900000.0,,Aviation,507,http://www.linkedin.com/company/orbital-express-launch-limited
+Anthro,San Jose,United States,CA,58,41,41.03,2020.0,27700000.0,,Hardware,507,http://www.linkedin.com/company/anthro-energy
+Colossal Biosciences,Dallas,United States,TX,235,217,8.48,2021.0,438000000.0,1190000000.0,Biotech,506,http://www.linkedin.com/company/itiscolossal
+TBC UZ,,,,427,293,45.58,,,,Finance,506,http://www.linkedin.com/company/tbcbankuz
+Aembit,Silver Spring,United States,MD,38,27,41.67,2021.0,42000000.0,,IT Security,506,http://www.linkedin.com/company/aembit
+Mara Group,Kigali,,,307,153,100.0,1996.0,,,Environmental,505,http://www.linkedin.com/company/maraholdings
+Torch Technology,New York,United States,NY,116,108,6.48,,,,Tech Services,505,http://www.linkedin.com/company/torch-technology
+Plum Fintech,London,UK,,351,272,28.92,2016.0,130000000.0,,Fintech,505,http://www.linkedin.com/company/plum-fintech
+GridBeyond,,UK,,179,167,7.19,,94000000.0,,Environmental,505,http://www.linkedin.com/company/gridbeyond
+CredAluga,Alphaville,BR,,142,39,260.0,2022.0,22000000.0,,Finance,504,http://www.linkedin.com/company/credaluga
+League One Volleyball,Los Angeles,United States,CA,334,130,156.76,2019.0,160000000.0,,Sports,504,http://www.linkedin.com/company/leagueonevolleyball
+RAJAN CHAKRAVARTHY and ASSOCIATES,,United States,,148,34,338.71,,,,Accounting,504,http://www.linkedin.com/company/rajan-chakravarthy-&-associates
+Warmly,,,,117,61,92.31,,22100000.0,,Analytics,503,http://www.linkedin.com/company/warmly
+TRACTIAN,Sao Paulo,BRA,SP,579,371,56.47,2019.0,186000000.0,,Tech Services,503,http://www.linkedin.com/company/tractian
+The School of Hard Knocks,Austin,United States,TX,165,38,334.21,2021.0,,,Content,503,http://www.linkedin.com/company/the-school-of-hard-knocks-llc
+Formic Technologies,,,,89,62,43.1,,59100000.0,,AI,502,http://www.linkedin.com/company/formic-technologies
+Vulcan Energy Resources Deutschland,Karlsruhe,GER,,203,170,19.42,,,,Energy,502,http://www.linkedin.com/company/vulcan-energie-ressourcen-gmbh
+Australian Renewable Energy Agency,Acton,AU,,226,190,19.11,,,,Environmental,501,http://www.linkedin.com/company/arenagovau
+Hickory Point Bank,Decatur,United States,IL,151,144,4.55,1979.0,,,Banking,501,http://www.linkedin.com/company/hickory-point-bank
+Plaza Tire Service,Cape Girardeau,United States,MO,239,201,18.71,1963.0,,,Automotive,501,http://www.linkedin.com/company/plaza-tire-service
+Modifi,Berlin,DEU,,137,131,4.9,2018.0,329000000.0,,Fintech,501,http://www.linkedin.com/company/modifi-moderndigitalfinance
+Sunfire,Dresden,,,543,486,11.78,2010.0,675000000.0,,Environmental,501,http://www.linkedin.com/company/sunfire-group
+GroundTruth Ag Inc. dba EarthOptics,Raleigh,United States,NC,102,98,3.96,,,,Tech Services,500,http://www.linkedin.com/company/earthoptics
+Overgate Hospice,Halifax,UK,,130,125,4.26,1981.0,,,Nonprofit,500,http://www.linkedin.com/company/overgate-hospice
+Cypress Village Retirement,Jacksonville,United States,FL,108,25,323.89,1990.0,,,Hospital/Healthcare,499,http://www.linkedin.com/company/cypress-village-retirement
+Crescent Energy,Houston,United States,TX,334,159,110.24,,,,Energy,499,http://www.linkedin.com/company/crescent-energy-co
+Document Crunch,Miami,,,128,68,86.67,2019.0,39100000.0,,AI,498,http://www.linkedin.com/company/document-crunch
+Series Entertainment,San Francisco,United States,CA,125,29,329.17,2023.0,35900000.0,,Gaming,498,http://www.linkedin.com/company/seriesentertainment
+SheFi,Brooklyn,United States,NY,440,94,368.09,2020.0,,,Education,498,http://www.linkedin.com/company/shefiorg
+Cloudsmith,Belfast,,,109,58,89.13,2016.0,52500000.0,,Tech Services,498,http://www.linkedin.com/company/cloudsmith
+Operant,San Francisco,United States,CA,45,34,32.0,,13500000.0,,Tech Services,497,http://www.linkedin.com/company/operantai
+Tandem,New York,United States,NY,129,30,332.0,2023.0,,,Internet,496,http://www.linkedin.com/company/withtandem
+Supply Chain Solutions Corp,Minneapolis,United States,MN,213,48,340.54,2009.0,,,Transportation,496,http://www.linkedin.com/company/supply-chain-solutions-corp
+JoB FeeD's,,IND,,756,143,429.2,,,,HR,496,http://www.linkedin.com/company/jobfeeds
+Thunes,Singapore,SGP,,579,475,21.8,2016.0,353000000.0,900000000.0,Fintech,496,http://www.linkedin.com/company/thunespayments
+Range,McLean,United States,VA,138,74,88.68,2020.0,40700000.0,,Finance,496,http://www.linkedin.com/company/rangefinanceinc
+Perpetua Resources,Donnelly,United States,ID,68,62,9.8,,,,Mining,495,http://www.linkedin.com/company/perpetuaresources
+Freedman Seating Co,Chicago,United States,IL,354,330,7.32,,,,Transportation,495,http://www.linkedin.com/company/freedman-seating
+Opsera,Palo Alto,United States,CA,94,86,9.33,,51300000.0,,Analytics,494,http://www.linkedin.com/company/opsera
+Canada Nickel Company,Toronto,CAN,ON,39,30,26.92,2019.0,,,Mining,494,http://www.linkedin.com/company/canada-nickel
+Nivara Home Finance Ltd.,Bangalore,IND,,322,266,20.98,2014.0,38400000.0,,Finance,494,http://www.linkedin.com/company/nivara-home-finance-ltd
+ZODIAC POOL SYSTEMS,Vista,United States,CA,221,50,342.0,,,,,494,http://www.linkedin.com/company/zodiac-pool-systems-inc.
+Flowdesk,Paris,FRA,,204,144,42.2,2020.0,133000000.0,,Fintech,493,http://www.linkedin.com/company/flowdesk-france
+Matador Resources Company,Dallas,United States,TX,587,489,19.95,2003.0,1900000.0,5318000000.0,Energy/Oil,493,http://www.linkedin.com/company/matador-resources-company
+Sword Security - North America,Toronto,CAN,ON,74,17,318.75,2013.0,,,Events,491,http://www.linkedin.com/company/sword-security-north-america
+PAG,,United States,,477,451,5.9,,3870000.0,,Investments,491,http://www.linkedin.com/company/_pag
+BrightNight,Inlet Beach,United States,FL,264,210,25.45,2019.0,1360000000.0,,Energy,491,http://www.linkedin.com/company/brightnight-power
+Waga Energy,Meylan,,,286,257,11.27,2015.0,,,Environmental,491,http://www.linkedin.com/company/waga-energy
+Inicio AI,Leicester,,Leicester,24,19,27.78,2020.0,6580000.0,,SaaS,490,http://www.linkedin.com/company/inicio-ai
+Hummingbird Healthcare,,United States,FL,326,73,346.15,,,,Hospital/Healthcare,490,http://www.linkedin.com/company/hummingbird-healthcare
+Lighthouse Autism Center,Mishawaka,United States,IN,741,602,23.19,2012.0,,,Digital Health,490,http://www.linkedin.com/company/lighthouse-autism-center
+Zoobean,Washington,,,49,39,23.68,2013.0,,,EdTech,490,http://www.linkedin.com/company/beanstack-by-zoobean
+Zolve,Bangalore,IND,,348,296,17.55,,407000000.0,,Fintech,489,http://www.linkedin.com/company/zolve-official
+Wyreflow Technology,BHOPAL,IND,,153,36,853.33,2020.0,,,Tech Services,489,http://www.linkedin.com/company/wyreflow-technologies
+AgDevCo,London,UK,,94,89,5.48,2009.0,,,Trade,489,http://www.linkedin.com/company/agdevco
+IHT Wealth Management,Chicago,United States,IL,78,74,5.71,,,,Investments,489,http://www.linkedin.com/company/iht-wealth-management
+Clearinghouse CDFI,Lake Forest,United States,CA,80,76,4.92,1996.0,20600000.0,,Finance,489,http://www.linkedin.com/company/clearinghouse-cdfi
+PLD SPACE,Elche,,,415,283,46.46,2011.0,147000000.0,,Aviation,489,http://www.linkedin.com/company/pld-space
+Birla Estates,Mumbai,IND,,414,314,31.67,2016.0,,,Real Estate,488,http://www.linkedin.com/company/birla-estates
+Installed Building Products,Columbus,United States,OH,860,769,11.85,,250000000.0,3530000000.0,Construction,488,http://www.linkedin.com/company/installed-building-products
+Yondr Group,Amsterdam,NLD,,316,272,16.09,2019.0,150000000.0,,Tech Services,488,http://www.linkedin.com/company/yondrgroup
+Slide,,United States,FL,370,256,44.95,,,,Insurance,487,http://www.linkedin.com/company/slideinsurance
+Inspire Investing,Hollister,United States,CA,37,30,24.0,2015.0,,,Finance,487,http://www.linkedin.com/company/inspireinvesting
+Roma Finance,Manchester,,,83,80,3.28,2008.0,,,Fintech,487,http://www.linkedin.com/company/roma-finance
+Render,San Francisco,United States,CA,127,103,23.16,,163000000.0,,Tech Services,487,http://www.linkedin.com/company/renderco
+Imprint,New York,United States,NY,210,154,36.07,2020.0,702000000.0,,Finance,486,http://www.linkedin.com/company/imprint-payments
+ACCESS MIDSTREAM PARTNERS L.P,Oklahoma City,United States,OK,240,55,335.71,,,,Energy/Oil,486,http://www.linkedin.com/company/access-midstream-partners-l.p
+Ennoventure,Cambridge,United States,MA,100,97,2.82,2018.0,14900000.0,,Fintech,486,http://www.linkedin.com/company/ennoventure
+Goose,Chicago,United States,IL,39,32,20.69,2021.0,21600000.0,,SaaS,486,http://www.linkedin.com/company/goosepet
+Simbe Robotics,San Francisco,United States,CA,113,63,76.6,2014.0,105000000.0,,Retail,485,http://www.linkedin.com/company/simbe-robotics-inc
+Texas Technical Trade School,Houston,United States,TX,152,36,321.43,2020.0,,,Training,485,http://www.linkedin.com/company/texas-tech-trade-school
+1-800 Water Damage,Ann Arbor,United States,MI,213,199,6.82,,,,Facilities,485,http://www.linkedin.com/company/1-800-water-damage
+Big Blue Marble Academy,Gilbert,United States,SC,636,524,21.29,2012.0,1320000.0,,Edtech,484,http://www.linkedin.com/company/big-blue-marble-academy
+Kalshi,New York,United States,NY,211,58,262.96,2018.0,156000000.0,,Event Tech,484,http://www.linkedin.com/company/kalshi
+Carbon Robotics,Seattle,United States,WA,289,214,34.67,,156000000.0,,Industrial,484,http://www.linkedin.com/company/carbonrobotics
+Andermatt Swiss Alps,Altdorf,,,118,28,320.83,,,,Real Estate,484,http://www.linkedin.com/company/andermatt-swiss-alps
+Orange County Transportation Authority,Orange,United States,CA,984,941,4.48,,,,Transportation,484,http://www.linkedin.com/company/orange-county-transportation-authority
+GameOn,Vancouver,CAN,BC,89,88,1.39,2018.0,,,Entertainment,483,http://www.linkedin.com/company/gameonfanapp
+Nayya,New York,United States,NY,187,155,20.42,,109000000.0,,Tech Services,483,http://www.linkedin.com/company/nayya
+Modern Wealth Management,Lenexa,United States,KS,244,182,34.04,1996.0,,,Finance,483,http://www.linkedin.com/company/meet-modern-wealth-management
+Altilium Clean Technology,England,UK,,47,29,60.0,2020.0,2220000.0,,Wholesale,483,http://www.linkedin.com/company/altilium-clean-technology
+JETSET Pilates,Miami Beach,United States,FL,171,83,104.84,2010.0,,,Fitness,482,http://www.linkedin.com/company/jetset-pilates
+Harrison.ai,Sydney,AUS,,316,282,12.44,2018.0,,,Hospital/Healthcare,482,http://www.linkedin.com/company/harrison-ai
+Excelerate Energy,The Woodlands,United States,TX,685,656,4.48,2003.0,,,Energy/Oil,481,http://www.linkedin.com/company/excelerate-energy
+EGL Holdings,Atlanta,United States,GA,130,31,313.33,,,,Investment Banks,481,http://www.linkedin.com/company/egl-holdings
+CULT MIA,Victoria,UK,,20,17,21.43,2019.0,,,Retail,481,http://www.linkedin.com/company/cult-mia
+Omnidian,Seattle,United States,WA,318,286,11.21,2015.0,172000000.0,,Environmental,481,http://www.linkedin.com/company/omnidian-inc.
+Matadero Madrid,MOMUY,,,757,147,416.24,,,,Textiles,481,http://www.linkedin.com/company/matadero
+Tessell,San Francisco,United States,CA,164,138,18.7,2021.0,,,SaaS,480,http://www.linkedin.com/company/tessell-inc
+Uniqus Consultech,Mumbai ,,Maharashtra,549,397,38.26,2022.0,42500000.0,,Consulting,480,http://www.linkedin.com/company/uniqus-consultech
+Kin Insurance,Chicago,United States,IL,804,772,4.17,2016.0,458000000.0,1000000000.0,Fintech,480,http://www.linkedin.com/company/kin-insurance
+The Bay Family of Companies,Green Bay,United States,WI,216,50,335.56,,,,Materials,480,http://www.linkedin.com/company/the-bay-family-of-companies
+ZEDEDA,Santa Clara,United States,CA,154,130,18.18,2016.0,126000000.0,,Analytics,480,http://www.linkedin.com/company/zededaedge
+ACS - Design.Construction.Integration,Middleton,United States,WI,771,150,415.31,1994.0,,,Construction,480,http://www.linkedin.com/company/acs-affiliated-construction-services-
+MOP,Alfragide,POR,,188,45,321.95,,,,Marketing,479,http://www.linkedin.com/company/mop---multimedia-outdoors-portugal
+Cayena,Sao Paulo,BRA,SP,354,323,9.47,2019.0,73400000.0,,Wholesale,479,http://www.linkedin.com/company/oicayena
+Ecozen,Pune,IND,,519,379,36.98,2010.0,162000000.0,,Environmental,479,http://www.linkedin.com/company/ecozen-solutions
+Azra Games,Sacramento,United States,CA,131,75,72.73,,68000000.0,,Gaming,478,http://www.linkedin.com/company/azra-games
+Scape Australia,Sydney,AUS,,352,322,9.15,2013.0,,,Real Estate,478,http://www.linkedin.com/company/scape-australia
+Juniper Green Energy,Gurugram,IND,,557,408,36.73,2018.0,364000000.0,,Environmental,478,http://www.linkedin.com/company/junipergreenenergy
+Distributional,Berkeley,,,38,19,94.44,,30000000.0,,SaaS,477,http://www.linkedin.com/company/dbnlai
+Callan Family Office,,,,48,42,14.29,2022.0,,,Finance,477,http://www.linkedin.com/company/callan-family-office
+Raya Data Center,Giza,EG,,274,271,0.76,2008.0,,,Tech Services,477,http://www.linkedin.com/company/raya-data-center
+E3 Lithium,Calgary,United States,AB,59,52,13.51,2016.0,42300000.0,,Mining,477,http://www.linkedin.com/company/e3lithium
+CHILDRENS MEDICAL CENTER LTD,MARTINSVILLE,United States,VA,133,32,312.0,,,,Hospital/Healthcare,476,http://www.linkedin.com/company/childrens-medical-center-ltd
+Pallas Capital Advisors,Braintree,United States,MA,46,41,11.76,2019.0,,,Finance,475,http://www.linkedin.com/company/pallas-capital-advisors
+LMR Partners,,UK,,427,351,21.91,,,,Finance,475,http://www.linkedin.com/company/lmr-partners
+spectro cloud,Santa Clara,United States,Ca,243,190,27.75,2019.0,160000000.0,,Tech Services,474,http://www.linkedin.com/company/spectro-cloud
+StorageMart,Brooklyn,United States,NY,373,351,6.39,,,,Real Estate,474,http://www.linkedin.com/company/storagemart
+Mesh,San Jose,United States,CA,159,139,14.4,,19500000.0,,Analytics,474,http://www.linkedin.com/company/meshdotai
+MarketResearch.com,North Bethesda,United States,MD,563,122,359.65,1998.0,,,Research,473,http://www.linkedin.com/company/marketresearch
+Cart.com,Austin,United States,TX,833,746,11.81,2020.0,771000000.0,1200000000.0,eCommerceTech,473,http://www.linkedin.com/company/cartdotcom
+AiDash,San Jose,United States,CA,413,388,6.25,2019.0,91500000.0,,AI,473,http://www.linkedin.com/company/aidash
+Micro Bird,,CAN,QC,239,188,27.07,,,,Automotive,473,http://www.linkedin.com/company/microbird-inc-
+Zenobē,London,UK,,369,350,5.34,2017.0,710000000.0,,Utilities,473,http://www.linkedin.com/company/zenobe-energy-ltd
+Cresta,San Francisco,United States,CA,414,278,48.97,2017.0,282000000.0,1600000000.0,AI,473,http://www.linkedin.com/company/cresta-inc
+Cornish Lithium Limited,Penryn,UK,,143,112,26.44,2016.0,340000000.0,,Mining,473,http://www.linkedin.com/company/cornish-lithium-plc
+Mattson Financial Services,Kentwood,United States,MI,24,22,5.88,2001.0,,,Finance,472,http://www.linkedin.com/company/mattson-financial-services-llc
+Heirloom Carbon,San Francisco,United States,CA,232,184,25.79,,208000000.0,,Environmental,472,http://www.linkedin.com/company/heirloom-carbon
+Topsort,San Francisco,United States,CA,107,63,69.81,2021.0,43200000.0,,SaaS,472,http://www.linkedin.com/company/topsort
+Zouk,Mumbai,IND,,278,152,83.08,2016.0,,,Consumer,471,http://www.linkedin.com/company/zouk
+Sardine,San Francisco,United States,CA,271,216,25.79,,146000000.0,,Fintech,471,http://www.linkedin.com/company/sardineai
+Recogni,San Jose,United States,CA,119,106,12.5,2017.0,174000000.0,,Hardware,471,http://www.linkedin.com/company/recogni
+OmniOn Power,Plano,United States,TX,268,63,327.91,,,,Electronics,471,http://www.linkedin.com/company/omnionpower
+International Institute of SDG's and Public Policy Research,NEW DELHI,IN,,285,67,324.44,2021.0,,,Public Policy Offices,471,http://www.linkedin.com/company/international-institute-of-sdg-s-and-public-policy-research
+Metro Loft Management,,United States,,42,39,8.11,,,,Real Estate,470,http://www.linkedin.com/company/metro-loft-management
+HERO,Birmingham,United States,AL,221,52,322.5,2017.0,,,Restaurants,470,http://www.linkedin.com/company/eatatherotoday
+Magic,Cambridge,,Cambridge,56,29,88.89,2022.0,471000000.0,,SaaS,470,http://www.linkedin.com/company/magicailabs
+TRANSAMAR,Algeciras,SPA,Cadiz,267,214,24.84,,,,Transportation,470,http://www.linkedin.com/company/transamar
+Steno,Los Angeles,United States,CA,582,448,29.7,2018.0,127000000.0,,Legaltech,470,http://www.linkedin.com/company/steno-inc
+Faropoint,Jersey City,United States,TN,141,127,11.02,2012.0,,,Real Estate,469,http://www.linkedin.com/company/faropoint
+Rainbow Realty Group,Great Neck,,Great Neck,34,32,6.67,2019.0,,,Real Estate,469,http://www.linkedin.com/company/rainbowrg
+Garden,New York,United States,NY,166,49,238.46,,6800000.0,,Internet,468,http://www.linkedin.com/company/garden-intelligence
+Talonvest Capital,Irvine,United States,CA,20,19,5.88,2010.0,,,Real Estate,468,http://www.linkedin.com/company/talonvest-capital-inc-
+Lumafield,Cambridge,United States,MA,143,130,10.28,2019.0,188000000.0,,Hardware,468,http://www.linkedin.com/company/lumafield
+Laser Photonics,Lockhart,United States,FL,95,80,18.33,1981.0,,,Machinery,468,http://www.linkedin.com/company/laser-photonics
+Beacon Hill Preparatory Institute,,United States,,172,42,311.43,2005.0,,,Education,467,http://www.linkedin.com/company/beacon-hill-preparatory-institute
+Sayari Labs,Washington,United States,DC,335,212,58.46,2015.0,40000000.0,,Tech Services,467,http://www.linkedin.com/company/sayarilabs
+Cirba Solutions,Charlotte,United States,NC,167,153,8.53,1991.0,295000000.0,,Environmental,466,http://www.linkedin.com/company/cirbasolutions
+Peak XV Partners,Bangalore,IND,,135,33,309.09,,,,Venture Capital,466,http://www.linkedin.com/company/peakxvpartners
+Wireless Revolution,Farmington Hills,United States,MI,733,146,401.54,,,,Telecom,466,http://www.linkedin.com/company/wireless-revolution
+ModifyHealth,Alpharetta,United States,GA,55,29,92.59,2018.0,29000000.0,,Digital Health,466,http://www.linkedin.com/company/modifyhealth
+Innov8 Coworking,New Delhi,IND,,87,66,30.19,2015.0,4000000.0,,Real Estate Tech,466,http://www.linkedin.com/company/innov8-coworking
+Keepit,Copenhagen,DNK,,513,404,27.13,2007.0,114000000.0,,Tech Services,466,http://www.linkedin.com/company/keepit-a-s
+VuNet Systems,Bangalore,IND,,256,143,79.55,2014.0,14400000.0,,Analytics,466,http://www.linkedin.com/company/vunet-systems
+Vermillio,,United States,IL,29,28,4.0,,23500000.0,,SaaS,466,http://www.linkedin.com/company/vermillio
+Family Service Agency,Phoenix,United States,AZ,330,77,328.81,1902.0,,,Hospital/Healthcare,466,http://www.linkedin.com/company/familyserviceagency
+Univest,,IND,,134,81,64.52,2022.0,,,Finance,465,http://www.linkedin.com/company/univest-in
+The Cordish Companies,Baltimore,United States,MD,225,211,6.98,,,,Entertainment,465,http://www.linkedin.com/company/the-cordish-company
+Serve Robotics,Los Angeles,United States,CA,215,67,223.53,,,,Tech Services,465,http://www.linkedin.com/company/serverobotics
+Stitch Money,Cape Town,,,191,140,36.19,,,,Fintech,465,http://www.linkedin.com/company/stitchmoney
+U.S. Energy Development Corporation,Getzville,United States,NY,156,145,7.27,1980.0,,,Energy/Oil,464,http://www.linkedin.com/company/u.s.-energy-development-corporation
+restor3d,Durham,United States,NC,293,243,20.6,2017.0,192000000.0,,Medical,464,http://www.linkedin.com/company/restor3d
+Observe,San Mateo,United States,CA,242,201,20.42,2017.0,322000000.0,,Tech Services,464,http://www.linkedin.com/company/observe-inc
+Fast Pace Health,Waynesboro,United States,TN,132,109,22.86,2009.0,75000000.0,,Hospital/Healthcare,463,http://www.linkedin.com/company/fast-pace-urgent-care-center
+Crux,,United States,,56,30,84.0,2023.0,77000000.0,,Internet,463,http://www.linkedin.com/company/cruxclimate
+Pomelo Care,New York,United States,NY,354,147,140.17,,79000000.0,,Hospital/Healthcare,463,http://www.linkedin.com/company/pomelo-care
+Norm Ai,New York,United States,NY,57,21,164.71,,86400000.0,,SaaS,462,http://www.linkedin.com/company/normative-ai
+PeopleResults,Southlake,United States,TX,138,34,309.68,,,,Consulting,462,http://www.linkedin.com/company/peopleresults
+Plus Power,New York,United States,CA,281,237,18.59,2018.0,215000000.0,,Energy,461,http://www.linkedin.com/company/plus-power
+Francis Medical,Maple Grove,United States,MN,67,59,13.33,2018.0,160000000.0,,Medical Equip,461,http://www.linkedin.com/company/francis-medical
+Strolll,Stafford,UK,,48,26,85.0,2019.0,17200000.0,,Medical,461,http://www.linkedin.com/company/strolll
+The Children's Center,Niles,,MI,162,40,309.09,2004.0,,,Education,460,http://www.linkedin.com/company/the-children-s-center
+ORBIDI,Sant Cugat,SPA,,461,105,338.46,2022.0,,,Marketing,460,http://www.linkedin.com/company/orbidi
+Jump,Paris,FRA,Île-de-France,181,112,61.45,2020.0,16800000.0,,Finance,460,http://www.linkedin.com/company/join-jump
+BEW Berliner Energie und Wärme GmbH,Berlin,DE,,961,152,533.03,,,,Utilities,459,http://www.linkedin.com/company/berlinerenergieundwaerme
+GameDay Men's Health,Carlsbad,United States,CA,631,276,128.97,2017.0,,,Hospital/Healthcare,459,http://www.linkedin.com/company/gameday-mens-health
+Crust Pizza Co.,The Woodlands,United States,TX,299,228,30.77,2011.0,,,Restaurants,459,http://www.linkedin.com/company/crust-pizza-co.
+Wellfount Corporation,Indianapolis,United States,IN,70,17,314.29,,,,Pharma,458,http://www.linkedin.com/company/wellfount-corporation
+Reinke Manufacturing Company,Deshler,United States,NE,148,126,17.86,1954.0,,,Electronics,458,http://www.linkedin.com/company/reinkemanufacturing
+Avolon,Ballsbridge,,,452,416,8.44,2010.0,26000000000.0,,Aviation,458,http://www.linkedin.com/company/avolon
+Grace Baptist Church and Academy,Chattanooga,United States,TN,616,131,369.31,1963.0,,,Religious,458,http://www.linkedin.com/company/grace-baptist-church-and-academy
+Metsera,,United States,,107,39,176.67,,,,Biotech,457,http://www.linkedin.com/company/metsera
+Convergent Energy and Power,New York,United States,NY,206,178,15.87,2011.0,,,Energy/Oil,457,http://www.linkedin.com/company/convergent-energy-power
+Prenuvo,San Francisco,United States,CA,395,239,65.12,,,,Medical Offices,457,http://www.linkedin.com/company/prenuvo
+Electric Era,Seattle,United States,WA,96,57,67.39,2019.0,16600000.000000002,,Engineering,457,http://www.linkedin.com/company/electric-era
+Fella and Delilah Health,San Francisco,United States,CA,149,37,303.57,2021.0,,,Medical,457,http://www.linkedin.com/company/fella-delilah-health
+BOH SPECIALISTS - 8 LUG CIRCUS,,United States,NC,149,37,303.85,,,,Entertainment,457,http://www.linkedin.com/company/bohspecialists
+TeraWulf,Easton,United States,MD,31,25,26.32,2021.0,,,Environmental,457,http://www.linkedin.com/company/terawulf
+Rigetti Computing,Berkeley,United States,CA,157,153,2.84,2013.0,198500000.0,,AI,457,http://www.linkedin.com/company/rigetti-computing
+Mojave Energy Systems,Palo Alto,United States,CA,58,47,23.53,,22200000.0,,Manufacturing,456,http://www.linkedin.com/company/mojave-energy-systems-inc
+First Eagle Investments,New York,United States,NY,554,533,4.03,1864.0,815000000.0,,Investments,455,http://www.linkedin.com/company/first-eagle-investments
+Nassau Financial Group,Hartford,United States,CT,783,738,6.11,2015.0,,,Insurance,455,http://www.linkedin.com/company/nassau-financial-group
+GoldenTree Asset Management,New York,United States,NY,372,350,6.17,2000.0,1440000.0,,Investments,455,http://www.linkedin.com/company/goldentree-asset-management
+Partners Health Care,Chestnut Hill,United States,MA,244,59,311.11,,,,Consulting,454,http://www.linkedin.com/company/partners-health-care
+Princeton Digital Group,Singapore,SGP,,288,226,27.75,2018.0,1170000000.0,2000000000.0,Telecom,454,http://www.linkedin.com/company/princetondg
+Bitdeer Group,Singapore,SGP,,242,214,13.04,2020.0,,,SaaS,454,http://www.linkedin.com/company/bitdeer-group
+Digital Edge DC,Singapore,SGP,,266,209,27.27,2020.0,1640000000.0,,Telecom,454,http://www.linkedin.com/company/digital-edge-dc
+Apna Mart,Bengaluru,IND,,369,209,76.97,2021.0,,,Internet,453,http://www.linkedin.com/company/apnamart-hq
+Princeton Nuenergy,Princeton,United States,NJ,42,35,20.0,2019.0,41300000.0,,Energy,453,http://www.linkedin.com/company/princeton-nuenergy
+EigenLayer,Seattle,United States,WA,124,67,85.48,,164000000.0,,Tech Services,452,http://www.linkedin.com/company/eigenl
+D-Orbit,Fino Mornasco,,,531,458,15.74,2011.0,263000000.0,,Aviation,452,http://www.linkedin.com/company/d-orbit
+vitronet Gruppe,Essen,,,605,130,367.26,,,,Telecom,452,http://www.linkedin.com/company/vitronet-gruppe
+Neurona Therapeutics,South San Francisco,United States,CA,112,79,41.67,,348000000.0,,Biotech,452,http://www.linkedin.com/company/neurona-therapeutics
+ENTEK Manufacturing,Lebanon,United States,OR,273,245,11.3,1985.0,,,Machinery,451,http://www.linkedin.com/company/entek-international
+F1 Arcade,London,,England,358,271,32.32,2021.0,62400000.0,,Hospitality,451,http://www.linkedin.com/company/f1-arcade
+Auxia,Palo Alto,United States,CA,47,18,152.94,,29000000.0,,SaaS,451,http://www.linkedin.com/company/auxia-io
+Gautam Solar Pvt Ltd,Okhla Industrial Estate,IN,,289,172,67.81,1997.0,,,Semiconductors,451,http://www.linkedin.com/company/gautam-solar-group
+kuLi vaporizer,St. Louis,United States,MO,462,107,330.3,2015.0,,,Hardware,451,http://www.linkedin.com/company/kuli-vaporizer
+LemFi (Formerly Lemonade Finance),Oakland,United States,CA,338,232,45.41,2020.0,85400000.0,,Finance,450,http://www.linkedin.com/company/lemfi
+Octopus Energy Generation,London,UK,,209,168,23.94,,3650000000.0,,Finance,450,http://www.linkedin.com/company/octopusenergygeneration
+Dyn Media GmbH,Cologne,GER,,155,39,303.23,2022.0,,,SaaS,450,http://www.linkedin.com/company/dyn-media
+RR,Windsor,UK,,205,50,312.5,2005.0,,,Recruiting,449,http://www.linkedin.com/company/recruitmentrevolution-com
+Alinea,New York,United States,NY,28,24,23.08,2020.0,16100000.000000002,,Finance,449,http://www.linkedin.com/company/alineainvest
+Hillpointe,Winter Park,United States,FL,255,153,65.91,2018.0,,,Real Estate,449,http://www.linkedin.com/company/hillpointe
+Astrix Security,Tel Aviv,ISR,Tel Aviv,117,76,53.62,,85000000.0,,IT Security,449,http://www.linkedin.com/company/astrix-security
+Futwork,,,,661,493,34.15,,3480000.0,,HR,449,http://www.linkedin.com/company/futwork
+Sokin,London,UK,England,115,48,136.11,2019.0,15000000.0,,Finance,448,http://www.linkedin.com/company/sokin
+万达电影院线,Beijing,,,421,98,331.18,2005.0,,,Media,448,http://www.linkedin.com/company/wanda-cinema-line-corporation
+Atlas Renewable Energy,Santiago de Chile,CHILE,,628,472,33.08,,,,Environmental,447,http://www.linkedin.com/company/atlasrenewableenergy
+Every,San Francisco,United States,CA,299,119,150.57,2021.0,32100000.0,,Finance,447,http://www.linkedin.com/company/everybanking
+Urbint,New York,United States,NY,180,145,23.62,2015.0,140000000.0,,AI,447,http://www.linkedin.com/company/urbint
+Marshalls Official Site,Houston,United States,TX,557,397,40.13,,,,Retail,447,http://www.linkedin.com/company/marshalls-homegoods
+Miamin Systems,Dubai,United States,United Arab Emirates,174,44,297.87,2016.0,,,Tech Services,447,http://www.linkedin.com/company/miamin-systems-inc
+OPTIONS,,United States,,257,63,310.0,,,,NonProfit,447,http://www.linkedin.com/company/options-inc
+Agtonomy,,,,66,64,4.08,,32799999.999999996,,Industrial,446,http://www.linkedin.com/company/agtonomy
+Bitwise Asset Management,San Francisco,United States,CA,137,111,23.38,,157000000.0,,Fintech,446,http://www.linkedin.com/company/bitwise-asset-management
+Denny's Franchise Development,Spartanburg ,United States,SC,150,38,288.89,,,,Restaurants,446,http://www.linkedin.com/company/denny-s-franchise-development
+Illini Electric Motorsports,Champaign,United States,IL,197,50,296.88,2023.0,,,Automotive,445,http://www.linkedin.com/company/illini-electric-motorsports
+Wrapbook,New York,United States,NY,436,343,26.92,2018.0,151000000.0,1000000000.0,Fintech,445,http://www.linkedin.com/company/wrapbook
+FundThrough,Toronto,CAN,ON,104,85,22.58,2014.0,96300000.0,,Fintech,444,http://www.linkedin.com/company/fundthrough
+NEPI Rockcastle,Bucharest,IM,,519,474,9.6,,,,Real Estate,444,http://www.linkedin.com/company/nepi-rockcastle
+Simplicity Group,Summit,United States,NJ,613,532,15.31,2016.0,43500000.0,,Finance,443,http://www.linkedin.com/company/simplicitygroupholdings
+Berry Street,Brooklyn,United States,NY,132,56,135.71,2022.0,61200000.0,,Home Health Care Services,443,http://www.linkedin.com/company/berry-street-health
+Albedo,Denver,United States,CO,94,93,1.41,2020.0,228000000.0,,Aviation,443,http://www.linkedin.com/company/albedo-space
+Bridge Industrial,,,,155,145,6.92,,,,Real Estate,443,http://www.linkedin.com/company/bridge-industrial
+Friends and Family Company,Brooklyn,United States,NY,251,62,303.45,2012.0,,,Tech Services,442,http://www.linkedin.com/company/friends-family
+BasiGo,Nairobi,KE,,145,97,49.35,2021.0,99000000.0,,Energy,442,http://www.linkedin.com/company/basigo
+U.S.SECURITY,Las Vegas,United States,NV,275,68,306.45,2009.0,,,Security,442,http://www.linkedin.com/company/u-s-security
+Liberty Church,Fairfield,,CA,275,68,305.77,1991.0,,,Religious,442,http://www.linkedin.com/company/liberty-church-fairfield
+ECI Pharmaceuticals,Fort Lauderdale,United States,FL,133,34,292.86,,,,Pharma,440,http://www.linkedin.com/company/eci-pharmaceuticals
+Cambium Carbon,Washington,United States,DC,52,38,40.0,,28200000.0,,Environmental,440,http://www.linkedin.com/company/cambium-carbon
+Plotwise,Rotterdam,,,142,96,48.72,,,,Environmental,440,http://www.linkedin.com/company/gradyent
+Electrolit USA,Albany,United States,NY,225,171,32.5,2014.0,,,Food,440,http://www.linkedin.com/company/electrolit
+Bonsai Robotics,,,,56,34,62.5,,28500000.0,,Manufacturing,439,http://www.linkedin.com/company/bonsai-robotics
+Gerald Group,Stamford,United States,CT,310,284,8.89,1962.0,,,Mining,439,http://www.linkedin.com/company/gerald-metals
+Rerun,Stockholm,SWE,,51,31,64.29,2022.0,20200000.0,,SaaS,439,http://www.linkedin.com/company/rerun-io
+Strickland MFG,Oilville,United States,VA,48,32,52.17,1945.0,,,Manufacturing,439,http://www.linkedin.com/company/strickland-mfg
+Gateway Fiber,St. Louis,,,106,72,47.83,,75000000.0,,Tech Services,439,http://www.linkedin.com/company/gateway-fiber
+KHC - A Karen Harvey Company,New York,United States,NY,117,30,303.57,,,,Recruiting,439,http://www.linkedin.com/company/khc
+Good Job Games,Istanbul,TR,,210,132,59.35,2017.0,23000000.0,,Gaming,438,http://www.linkedin.com/company/goodjobgames
+Linklaters Germany,Frankfurt,GER,,113,29,292.59,,,,Legal,438,http://www.linkedin.com/company/linklaters-germany
+Aymium,St. Paul,United States,MN,35,29,21.74,2012.0,150000000.0,,Energy,438,http://www.linkedin.com/company/aymium
+Prenuvo,San Francisco,United States,CA,439,266,65.12,,192000000.0,,Medical,438,http://www.linkedin.com/company/prenuvo
+Inspiren,Brooklyn,United States,NY,85,55,53.13,2016.0,52400000.0,,Hospital/Healthcare,438,http://www.linkedin.com/company/inspirenhealth
+San Diego FC,,United States,CA,302,74,310.0,,,,Sports,438,http://www.linkedin.com/company/san-diego-fc
+Pindrop,Atlanta,United States,GA,322,298,8.27,2011.0,333000000.0,,IT Security,438,http://www.linkedin.com/company/pindrop
+High Rise Financial,Los Angeles,United States,CA,128,97,32.88,2016.0,150000000.0,,Finance,437,http://www.linkedin.com/company/high-rise-financial
+Stanley Associates,Arlington,United States,VA,105,27,288.46,1976.0,,,Tech Services,437,http://www.linkedin.com/company/stanley-associates-inc-
+Thinking Hut IT Solutions,Pune,IND,,136,35,285.71,2010.0,,,Tech Services,437,http://www.linkedin.com/company/thinking-hut-it-solutions
+Standard Wellness Company,Gibsonburg,United States,OH,112,77,46.03,2017.0,,,Medical,436,http://www.linkedin.com/company/standard-wellness-company
+Fora Financial,New York,United States,NY,211,210,0.57,,387000000.0,,Finance,436,http://www.linkedin.com/company/fora-financial
+GandA Partners,Houston,United States,TX,795,250,218.75,1995.0,,,HR,436,http://www.linkedin.com/company/g-a-partners
+Higharc,Anywhere,,,138,95,44.87,2018.0,78700000.0,,3D,436,http://www.linkedin.com/company/higharc
+K9 Resorts Luxury Pet Hotel,Fanwood,United States,NJ,327,270,21.33,2005.0,13900000.0,,Hospitality,436,http://www.linkedin.com/company/k-9-resorts-daycare-&-luxury-hotel
+KoMiCo USA,Austin,United States,TX,187,183,1.8,2007.0,,,Semiconductors,436,http://www.linkedin.com/company/komico-technology-incorporated
+RAINBOW,San Francisco,United States,,155,107,44.3,2021.0,28900000.0,,Insurance,435,http://www.linkedin.com/company/userainbow
+Ascend,Boulder,United States,CO,124,32,287.1,,,,HR,435,http://www.linkedin.com/company/ascendps
+MN8 Energy,New York,United States,NY,475,397,19.76,2022.0,,,Energy,435,http://www.linkedin.com/company/mn8energy
+Kovitz Investment Group,Chicago,United States,IL,154,133,16.26,2003.0,,,Investments,435,http://www.linkedin.com/company/kovitz
+Turnberry,Aventura,United States,FL,327,309,5.8,1967.0,,,Real Estate,435,http://www.linkedin.com/company/turnberry
+Gravity Engineering Services,Lewes,United States,DE,120,31,289.66,2012.0,,,Tech Services,435,http://www.linkedin.com/company/gravity-engineering-services-private-limited
+Pennsylvania Transformer Technology Inc. (PTTI),Canonsburg,United States,PA,217,170,27.92,1927.0,,,Electronics,434,http://www.linkedin.com/company/pennsylvania-transformer-technology-inc-
+Medical Oncology and Hematology Associates,Des Moines,United States,IA,174,45,285.71,1981.0,,,Hospital/Healthcare,434,http://www.linkedin.com/company/oncology-hematology-associates
+Yeadon Domes,Minneapolis,United States,MN,49,48,2.5,,,,Sports,433,http://www.linkedin.com/company/yeadondomes
+DEEP,Luxembourg,LU,,340,84,710.81,2024.0,,,SaaS,433,http://www.linkedin.com/company/deep-eu
+Cagent Vascular,Wayne,United States,PA,83,55,52.27,2014.0,73200000.0,,Medical Equip,433,http://www.linkedin.com/company/cagent-vascular
+Super Star Car Wash,Phoenix,United States,AZ,462,349,32.18,1995.0,,,Automotive,433,http://www.linkedin.com/company/super-star-car-wash
+PRAN Beverages (India) Private Limited,Kolkata,IN,,443,106,317.91,2010.0,,,Food,433,http://www.linkedin.com/company/pran-beverages-india-pvt-ltd
+ByHeart,New York City,United States,NY,243,217,12.21,2016.0,464000000.0,,Health,432,http://www.linkedin.com/company/byheartnutrition
+Fairmat,,,,127,89,43.27,,,,Environmental,432,http://www.linkedin.com/company/fairmat-tech
+Schools Week,London,UK,,278,70,300.0,2014.0,,,Education,432,http://www.linkedin.com/company/schools-week
+Phoenix Sky Harbor International Airport,Phoenix,United States,AZ,390,377,3.56,,,,Aviation,431,http://www.linkedin.com/company/phoenix-sky-harbor-international-airport
+Jobs For The Future,Boston,United States,MA,822,737,11.71,,10000000.0,,Education,431,http://www.linkedin.com/company/jobs-for-the-future
+Vecmocon Technologies Private Limited,New Delhi,IND,,209,136,53.54,2016.0,23400000.0,,Automotive,431,http://www.linkedin.com/company/vecmocon
+Swave Photonics,Leuven,BE,,36,23,60.0,2022.0,40100000.0,,Semiconductors,431,http://www.linkedin.com/company/swave-photonics
+skylightframe.com,West Hollywood,United States,CA,171,121,41.18,,20000000.0,,Electronics,430,http://www.linkedin.com/company/skylight-frame
+Haus,,,,224,94,137.65,2021.0,61600000.0,,Tech Services,429,http://www.linkedin.com/company/haus-analytics
+GeoPura,Wysall,,Nottinghamshire,132,94,40.26,,124000000.0,,Energy,429,http://www.linkedin.com/company/geopura
+Bureau,San Francisco,United States,CA,233,153,52.48,2020.0,50600000.0,,Tech Services,429,http://www.linkedin.com/company/bureauidentity
+HTeaO,Midland,United States,TX,569,452,25.84,2009.0,,,Restaurants,429,http://www.linkedin.com/company/hteao
+Underdog Fantasy,Brooklyn,United States,NY,655,450,45.72,,,,Sports,428,http://www.linkedin.com/company/underdogfantasy
+ALG,Brisbane Airport,AUS,,272,69,292.65,2004.0,,,Recruiting,428,http://www.linkedin.com/company/algtalent
+Freestone Grove Partners,San Francisco,United States,CA,172,45,284.0,2023.0,,,Finance,428,http://www.linkedin.com/company/freestone-grove-partners
+Optilogic,Ann Arbor,United States,MI,110,79,39.47,,53000000.0,,Tech Services,427,http://www.linkedin.com/company/optilogic
+Spyne,Gurgaon,IND,,362,230,57.35,2018.0,27300000.0,,Analytics,427,http://www.linkedin.com/company/spyne-ai
+Spare,Vancouver,CAN,BC,243,161,50.98,2015.0,57800000.0,,IT Security,427,http://www.linkedin.com/company/spare
+Salon De Beauty,Boston,United States,MA,168,44,282.35,,,,Hospital/Healthcare,427,http://www.linkedin.com/company/salon-de-beauty
+Perfect,New York,United States,NY,49,32,54.84,2021.0,36000000.0,,SaaS,427,http://www.linkedin.com/company/goperfect
+Raxio Data Centres,Rotterdam,NET,,118,85,38.67,2018.0,,,Telecom,427,http://www.linkedin.com/company/raxiodatacentres
+ShopMy,New York,United States,NY,305,89,242.11,2020.0,,410000000.0,Internet,427,http://www.linkedin.com/company/shopmy-
+EP Wealth Advisors,Torrance,United States,CA,481,377,27.58,2004.0,6600000.0,,Fintech,427,http://www.linkedin.com/company/ep-wealth-advisors
+Sequel Med Tech,,United States,NH,287,73,295.08,,,,Medical,426,http://www.linkedin.com/company/sequel-med-tech
+Innovist,Gurgaon,IN,,134,97,38.14,2018.0,33000000.0,,Personal Care Product Manufacturing,426,http://www.linkedin.com/company/innovist
+ANYbotics,Zurich,,,308,197,56.64,2016.0,145000000.0,,Industrial,426,http://www.linkedin.com/company/anybotics
+MarqVision,Boston,United States,MA,196,142,38.52,,46600000.0,,Tech Services,426,http://www.linkedin.com/company/marqvision
+Five Iron Golf,New York,United States,NY,381,336,13.55,2017.0,61800000.0,,Entertainment,426,http://www.linkedin.com/company/fiveirongolf
+EMS Technologies joins Albireo Energy,,,,194,51,280.43,1980.0,,,Facilities,425,http://www.linkedin.com/company/ems-technologies_2
+SeAH Wind Ltd,Edinburgh,UK,,241,69,247.27,2021.0,,,Energy,425,http://www.linkedin.com/company/seah-wind-ltd
+Evertis Packaging Solutions,Portalegre,PT,,369,328,12.55,1959.0,,,Manufacturing,424,http://www.linkedin.com/company/evertispackagingsolutions
+JetZero,Long Beach,United States,CA,210,141,48.48,2020.0,79400000.0,,Aviation,424,http://www.linkedin.com/company/jetzero
+GITAI,Meguro-ku,,,65,64,1.75,2016.0,75000000.0,,Defense,424,http://www.linkedin.com/company/gitai
+Stellex,New York,United States,NY,65,50,28.57,,,,Finance,424,http://www.linkedin.com/company/stellex-capital-management
+Wayve,London,UK,,536,299,79.61,2017.0,,,AI,424,http://www.linkedin.com/company/wayve-technologies
+Taiwan Semiconductor,Shindian City,TW,,326,291,11.99,1979.0,,,Semiconductors,424,http://www.linkedin.com/company/taiwan-semiconductor
+JobNimbus,American Fork,United States,UT,276,230,20.09,2011.0,68500000.0,,Tech Services,424,http://www.linkedin.com/company/jobnimbus
+Fuse Energy,London,UK,,102,46,121.74,2022.0,,,Internet,423,http://www.linkedin.com/company/fuseenergyhq
+John H. Carter Company,Baton Rouge,United States,LA,554,519,6.77,,,,Industrial,422,http://www.linkedin.com/company/john-h.-carter
+SK Capital Partners,New York,United States,NY,118,110,6.67,,,,Investments,422,http://www.linkedin.com/company/sk-capital-partners
+Bigelow Tea,Fairfield,United States,CT,273,261,4.63,1945.0,,,Consumer,422,http://www.linkedin.com/company/bigelow-tea
+Fleek (YC W22),London,UK,,103,76,35.53,,20900000.0,,Internet,422,http://www.linkedin.com/company/joinfleek
+PrettyDamnQuick,Tel Aviv,ISR,,52,35,50.0,2021.0,30900000.0,,SaaS,422,http://www.linkedin.com/company/prettydamnquick
+Concierge Cybersecurity Solutions,Orlando,United States,FL,93,65,43.55,2017.0,,,IT Security,422,http://www.linkedin.com/company/blackcloak
+Auror,1010,NZ,,276,188,47.28,2012.0,70700000.0,,SaaS,421,http://www.linkedin.com/company/auror
+Metronome,San Francisco,United States,CA,135,100,34.69,2020.0,130000000.0,,SaaS,421,http://www.linkedin.com/company/getmetronome
+Dentalkart,New Delhi,IN,,505,285,77.33,2016.0,,,Medical,421,http://www.linkedin.com/company/dentalkart
+Umpqua Dairy Products Co,Grants Pass,United States,OR,102,27,285.0,,,,Food,421,http://www.linkedin.com/company/umpqua-dairy-products-co
+Plurilock Software,Victoria,CAN,BC,64,45,41.86,2015.0,,,IT Security,421,http://www.linkedin.com/company/plurilock-security-solutions-inc
+TheHealthFactory,Mumbai,IN,,31,21,47.62,2018.0,,,Food and Beverage Retail,421,http://www.linkedin.com/company/thehealthfactory
+Sereact,Stuttgart,DE,,49,21,128.57,,30900000.0,,SaaS,421,http://www.linkedin.com/company/sereact
+Coro,Chicago,United States,IL,408,375,8.82,2014.0,,750000000.0,IT Security,421,http://www.linkedin.com/company/corocyber
+XNRGY Climate Systems,Greenfield Park QC  J4V 1M9,,,218,149,46.61,2017.0,,,Engineering,421,http://www.linkedin.com/company/xnrgy-climate-systems
+SuperAnnotate,Sunnyvale,United States,CA,305,200,52.41,2018.0,62100000.0,,AI,420,http://www.linkedin.com/company/superannotate
+Soda Health,,,,91,64,43.1,,99000000.0,,Digital Health,420,http://www.linkedin.com/company/sodahealth
+Reeco,Tel Aviv,ISR,Tel Aviv,50,34,50.0,,33000000.0,,Hospitality,420,http://www.linkedin.com/company/re-eco
+Q.ai,Ramat Gan,ISR,,316,80,295.0,,,,"Technology, Information and Media",420,http://www.linkedin.com/company/q-a-i
+Method Financial,Austin,United States,TX,57,39,45.95,2021.0,60100000.0,,Finance,419,http://www.linkedin.com/company/methodfi
+Deep Sky,Montreal,CAN,QC,57,39,45.45,2022.0,62200000.0,,Environmental,419,http://www.linkedin.com/company/deep-sky-climate
+Deep Sky,Montreal,CAN,QC,57,39,45.45,2022.0,,,Environmental,419,http://www.linkedin.com/company/deep-sky-climate
+xtype.io,Covina,United States,CA,48,33,46.88,2020.0,31800000.0,,SaaS,419,http://www.linkedin.com/company/xtype
+Life Plus,Paris,FRA,,69,18,280.0,2015.0,,,Health,419,http://www.linkedin.com/company/life-plus-io
+Great Valley Advisor Group,Berwyn,United States,PA,29,20,41.18,1982.0,,,Finance,418,http://www.linkedin.com/company/great-valley-advisor-group
+HYGENCO - The Hydrogen Company,Gurugram,IND,,122,92,32.61,2020.0,,,Energy,418,http://www.linkedin.com/company/hygenco
+Andretti Indoor Karting and Games,Orlando,United States,FL,903,809,11.55,2001.0,,,Entertainment,418,http://www.linkedin.com/company/andrettikarting
+LiveOak Fiber,Brunswick,,GA,114,86,32.93,2022.0,150000000.0,,Telecom,418,http://www.linkedin.com/company/liveoak-fiber
+accor.com,Hoofddorp,,,64,51,26.83,2015.0,,,Hospitality,418,http://www.linkedin.com/company/novotel-amsterdam-schiphol-airport
+PCF Insurance Services,Lehi,United States,UT,717,620,15.6,1987.0,,,Insurance,418,http://www.linkedin.com/company/pcfinsuranceservices
+Home Improvement Services,Portland,United States,OR,236,61,285.0,1980.0,,,Construction,417,http://www.linkedin.com/company/home-improvement-services-inc
+Fixify,Arlington,United States,VA,46,20,131.58,2023.0,32000000.0,,Tech Services,417,http://www.linkedin.com/company/hifixify
+Pace Membership Warehouse,Laurel,United States,MD,105,28,272.0,,,,Telecom,417,http://www.linkedin.com/company/pace-membership-warehouse
+Boostly,Orem,United States,,63,28,125.93,2017.0,29800000.0,,Tech Services,417,http://www.linkedin.com/company/goboostly
+ItsaCheckmate,New York,United States,NY,364,300,21.33,2016.0,3000000.0,,Hospitality,417,http://www.linkedin.com/company/itsacheckmate
+PosiGen,Jefferson,United States,LA,593,511,16.02,2011.0,814000000.0,,Environmental,416,http://www.linkedin.com/company/posigen
+Ryft,London,UK,,30,21,45.0,,8900000.0,,Tech Services,416,http://www.linkedin.com/company/ryftpay
+Fiddler,Palo Alto,United States,CA,101,77,31.51,2018.0,64099999.99999999,,AI,416,http://www.linkedin.com/company/fiddler-ai
+beehiiv,New York,United States,NY,192,102,88.24,2021.0,50900000.0,,Internet,416,http://www.linkedin.com/company/beehiiv
+Chapter,New York,United States,NY,131,100,31.58,,186000000.0,,Consumer,416,http://www.linkedin.com/company/joinchapter
+Group14 Technologies,Woodinville,United States,WA,291,227,28.19,2015.0,683000000.0,,Manufacturing,415,http://www.linkedin.com/company/group14-technologies
+Cape,,United States,VA,106,49,118.6,,76400000.0,,Telecom,415,http://www.linkedin.com/company/capecellular
+Roger's Construction,Mt Pleasant Township,,PA,153,41,270.37,,,,Construction,415,http://www.linkedin.com/company/roger-s-construction
+Soltis Investment Advisors,St. George,United States,UT,130,100,30.12,1993.0,,,Finance,414,http://www.linkedin.com/company/soltis-investment-advisors
+Capital Square,Richmond,United States,VA,148,146,1.48,2012.0,10000000.0,,Investments,414,http://www.linkedin.com/company/capitalsq
+Meteomatics AG,St. Gallen / Berlin,SWI,,139,107,29.52,2012.0,36500000.0,,Technology,414,http://www.linkedin.com/company/meteomatics
+CodeRoad,Boca Raton,United States,FL,123,33,278.13,2002.0,,,SaaS,414,http://www.linkedin.com/company/coderoad-inc
+Port of Oakland,Oakland,United States,Ca,605,578,4.7,,,,Maritime,414,http://www.linkedin.com/company/port-of-oakland
+Viome,Mountain View,United States,CA,100,92,7.95,2016.0,277000000.0,,Digital Health,413,http://www.linkedin.com/company/viome
+Hoosier Community Network,Bloomington,United States,IN,108,29,273.91,,,,Nonprofit,413,http://www.linkedin.com/company/hoosiercommunitynetwork
+Chaos Labs,New York,United States,NY,45,32,43.33,2021.0,75000000.0,,SaaS,413,http://www.linkedin.com/company/chaos-labs-xyz
+IHOP (Hotcakes Inc San Diego Palm Springs Orange County),,United States,CA,234,185,26.62,,,,Food,413,http://www.linkedin.com/company/ihop-hotcakes-inc-san-diego-palm-springs-orange-county-
+Maritim Hotel Amsterdam,Amsterdam,NLD,,186,50,275.0,,,,Hospitality,413,http://www.linkedin.com/company/maritim-hotel-amsterdam
+Renaissance Technologies,East Setauket,United States,NY,49,35,40.63,1978.0,,,Investments,413,http://www.linkedin.com/company/renaissane-technologies
+Electronics and Electrical Design,",",IN,,230,60,283.93,2014.0,,,Electronics,413,http://www.linkedin.com/company/eeupdate
+Oxford Quantum Circuits,Reading,UK,,134,104,29.0,2017.0,158000000.0,,Tech Services,412,http://www.linkedin.com/company/oqc
+Mosaic Manufacturing,Toronto,CAN,ON,103,80,28.36,2014.0,29200000.0,,3D,412,http://www.linkedin.com/company/mosaicmfg
+Influur,Miami,United States,FL,121,94,28.72,2020.0,16300000.0,,Marketing,412,http://www.linkedin.com/company/influur
