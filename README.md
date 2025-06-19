@@ -1,4 +1,4 @@
-# 🚀 Grok-Themed AI Company Analytics Dashboard
+# 🚀 Ellipsis-Health AI Company Analytics Dashboard
 
 This dashboard visualizes valuation, funding, and growth metrics for top AI startups using Growjo public data.
 
@@ -11,7 +11,7 @@ This dashboard visualizes valuation, funding, and growth metrics for top AI star
 
 ## Project Structure
 
-grok-dashboard/
+Ellipsis-Health-dashboard/
 ├── app/
 │ ├── dashboard.py
 │ ├── components/charts.py
